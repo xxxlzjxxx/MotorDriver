@@ -1,0 +1,5 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"USB_DM","OffPage","04 POWER","4","SCH","R29.2","310","150","5D","{3}"
+"USB_DM","OffPage","03 MCU","3","SCH","U1.44","570","300","4C","{4}"
+"USB_DP","OffPage","04 POWER","4","SCH","R30.2","310","160","5D","{3}"
+"USB_DP","OffPage","03 MCU","3","SCH","U1.45","570","290","4C","{4}"
