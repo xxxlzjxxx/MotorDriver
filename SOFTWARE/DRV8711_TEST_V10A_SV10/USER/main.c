@@ -7,10 +7,10 @@
 #include "timer.h"
 #include "bsp_drv8711.h"
 #include "usmart.h"
-//ALIENTEK Mini STM32开发板范例代码12
-//USMART调试组件实验  
-//技术支持：www.openedv.com
-//广州市星翼电子科技有限公司
+/*	ALIENTEK Mini STM32开发板范例代码12
+	USMART调试组件实验  
+	技术支持：www.openedv.com
+	广州市星翼电子科技有限公司 	*/
  
 //LED状态设置函数
 void led_set(u8 sta){
