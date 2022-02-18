@@ -1,0 +1,34 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  JY02_V10_220108.brd*
+G04 Film Name:    PasteMask_Bottom*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.2-S071*
+G04 Origin Date:  Wed Feb 16 16:58:30 2022*
+G04 *
+G04 Layer:  PACKAGE GEOMETRY/PASTEMASK_BOTTOM*
+G04 Layer:  PIN/PASTEMASK_BOTTOM*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.1524*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX55Y55*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,6.35*%
+%LPD*%
+G75*
+G54D10*
+X320000Y320000D03*
+Y950000D03*
+Y8050000D03*
+Y8680000D03*
+X7500000Y320000D03*
+X9150000Y8680000D03*
+X14680000Y320000D03*
+Y950000D03*
+Y8050000D03*
+Y8680000D03*
+M02*

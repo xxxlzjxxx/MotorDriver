@@ -211,10 +211,9 @@
          "G:\github\MotorDriver\HARDWARE\B-G431B-ESC1_V10_211203\SCH\b-g431b-esc1_v10_211203.dsn"
          "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
       (Select "Design Resources"
          "G:\github\MotorDriver\HARDWARE\B-G431B-ESC1_V10_211203\SCH\b-g431b-esc1_v10_211203.dsn"
-         "Design Cache"))
+         "MAIN" "03 G431"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -224,12 +223,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 671")
-        (Scroll "1954 818")
-        (Zoom "592")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 671")
+        (Scroll "-34 0")
+        (Zoom "74")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\B-G431B-ESC1_V10_211203\SCH\B-G431B-ESC1_V10_211203.DSN")
       (Schematic "MAIN")
-      (Page "03 G431")))
+      (Page "03 G431"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 208 1281 208 827")
+        (Scroll "-57 -9")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "G:\GITHUB\MOTORDRIVER\HARDWARE\B-G431B-ESC1_V10_211203\SCH\B-G431B-ESC1_V10_211203.DSN")
+      (Schematic "MAIN")
+      (Page "02 STLINKV2-1")))
   (ISPCBBASICLICENSE "false"))

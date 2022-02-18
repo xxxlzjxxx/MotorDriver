@@ -7,16 +7,16 @@
 #include "timer.h"
 #include "bsp_drv8711.h"
 #include "usmart.h"
-/*	ALIENTEK Mini STM32¿ª·¢°å·¶Àý´úÂë12
-	USMARTµ÷ÊÔ×é¼þÊµÑé  
-	¼¼ÊõÖ§³Ö£ºwww.openedv.com
-	¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾ 	*/
+/*	ALIENTEK Mini STM32å¼€å‘æ¿èŒƒä¾‹ä»£ç 12
+	USMARTè°ƒè¯•ç»„ä»¶å®žéªŒ  
+	æŠ€æœ¯æ”¯æŒï¼šwww.openedv.com
+	å¹¿å·žå¸‚æ˜Ÿç¿¼ç”µå­ç§‘æŠ€æœ‰é™å…¬å¸ 	*/
  
-//LED×´Ì¬ÉèÖÃº¯Êý
+//LEDçŠ¶æ€è®¾ç½®å‡½æ•°
 void led_set(u8 sta){
 	LED1=sta;
 } 
-//º¯Êý²ÎÊýµ÷ÓÃ²âÊÔº¯Êý
+//å‡½æ•°å‚æ•°è°ƒç”¨æµ‹è¯•å‡½æ•°
 void test_fun(void(*ledset)(u8),u8 sta){
 	ledset(sta);
 }  	
@@ -24,18 +24,18 @@ int main(void){
 	u16 adcx;
 	float temp;
     
-    NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2);// ÉèÖÃÖÐ¶ÏÓÅÏÈ¼¶·Ö×é2
-	delay_init();	    	 //ÑÓÊ±º¯Êý³õÊ¼»¯	  
-	uart_init(115200);	 	//´®¿Ú³õÊ¼»¯Îª9600
-    Adc_Init();		  		//ADC³õÊ¼»¯
-	LED_Init();				//³õÊ¼»¯ÓëLEDÁ¬½ÓµÄÓ²¼þ½Ó¿Ú
-	TIM3_Int_Init(50-1,7200-1);//10KhzµÄ¼ÆÊýÆµÂÊ£¬¼ÆÊýµ½5000Îª500ms 
-	usmart_dev.init(72); 	//³õÊ¼»¯USMART				 		   
+    NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2);// è®¾ç½®ä¸­æ–­ä¼˜å…ˆçº§åˆ†ç»„2
+	delay_init();	    	 //å»¶æ—¶å‡½æ•°åˆå§‹åŒ–	  
+	uart_init(115200);	 	//ä¸²å£åˆå§‹åŒ–ä¸º9600
+    Adc_Init();		  		//ADCåˆå§‹åŒ–
+	LED_Init();				//åˆå§‹åŒ–ä¸ŽLEDè¿žæŽ¥çš„ç¡¬ä»¶æŽ¥å£
+	TIM3_Int_Init(50-1,7200-1);//10Khzçš„è®¡æ•°é¢‘çŽ‡ï¼Œè®¡æ•°åˆ°5000ä¸º500ms 
+	usmart_dev.init(72); 	//åˆå§‹åŒ–USMART				 		   
   	while(1) {		 	  
 		adcx=Get_Adc_Average(ADC_Channel_14, 10);
-		printf(">>ADC VALUE: %d \n\r", adcx);//ÏÔÊ¾ADCµÄÖµ
+		printf(">>ADC VALUE: %d \n\r", adcx);//æ˜¾ç¤ºADCçš„å€¼
 		temp=(float)adcx*(3.3/4096);
-        printf(">>VOL VALUE: %0.4f \n\r", temp);//ÏÔÊ¾ADCµÄÖµ
+        printf(">>VOL VALUE: %0.4f \n\r", temp);//æ˜¾ç¤ºADCçš„å€¼
 		LED0=!LED0;
 		delay_ms(500);	
 	}											    
