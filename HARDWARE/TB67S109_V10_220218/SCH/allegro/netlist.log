@@ -1,0 +1,29 @@
+{ Using PSTWRITER 17.2.0 d001Feb-21-2022 at 15:50:45 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.29" ignored for U1: MAIN, 03 TB67S109 (58.42, 30.48). Connecting pin to net "PA8/LED0".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.45" ignored for U1: MAIN, 03 TB67S109 (58.42, 30.48). Connecting pin to net "PB8/KEY0".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.5" ignored for J3: MAIN, 03 TB67S109 (137.16, 180.34). Connecting pin to net "PA9/USART1_TX".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.7" ignored for J3: MAIN, 03 TB67S109 (137.16, 180.34). Connecting pin to net "PA10/USART1_RX".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.11" ignored for U1: MAIN, 03 TB67S109 (58.42, 30.48). Connecting pin to net "PA1/RPOT".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "DC1.2" ignored for DC1: MAIN, 03 TB67S109 (238.76, 162.56). Connecting pin to net "GND".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 03 TB67S109 (248.92, 259.08). Connecting pin to net "GND".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 03 TB67S109 (269.24, 259.08). Connecting pin to net "GND".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 03 TB67S109 (269.24, 276.86). Connecting pin to net "GND".
+#10 WARNING(ORCAP-36006): Part Name "XL-2012SURUGC_XL-2012SURUGC_XL-2012SURUGC" is renamed to "XL-2012SURUGC_XL-2012SURUGC_XL-".
+#11 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_HX25035-4WA_HX25035-4WA" is renamed to "CONN RCPT 4_HX25035-4WA_HX25035".
+#12 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#13 WARNING(ORCAP-36006): Part Name "SWITCH_3P_SS-12D11G3R_SS-12D11G3R" is renamed to "SWITCH_3P_SS-12D11G3R_SS-12D11G".
+#14 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_LQFP48-7X7X0R5_STM32F103CBT6" is renamed to "STM32F103C8T6_LQFP48-7X7X0R5_ST".
+#15 WARNING(ORCAP-36006): Part Name "TB67S109AFTG_QFN48-7X7X0R5-5R6X5R6_TB67S109AFTG" is renamed to "TB67S109AFTG_QFN48-7X7X0R5-5R6X".
+#16 WARNING(ORCAP-36006): Part Name "TYPE-C_0_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_0_TYPE-C-31-M-12_TYPE-C-".
+#17 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G15C99-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\github\MotorDriver\HARDWARE\TB67S109_V10_220218\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\TB67S109_V10_220218\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\TB67S109_V10_220218\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\TB67S109_V10_220218\SCH\allegro/pstxnet.dat
+packaging the design view...
