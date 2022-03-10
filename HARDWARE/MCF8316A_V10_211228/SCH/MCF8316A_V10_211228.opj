@@ -30,7 +30,7 @@
     (Netlist_TAB "0")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "G:\github\MBED-TOOLS\HARDWARE\STLINKV3_PINOUT_V11_211202\SCH\allegro")
+       "G:\github\MotorDriver\HARDWARE\MCF8316A_V10_211228\SCH\allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -52,7 +52,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\github\MBED-TOOLS\HARDWARE\STLINKV3_PINOUT_V10A\SCH\STLINKV3_PINOUT_V10A..DRC")
+       "G:\github\MotorDriver\HARDWARE\MCF8316A_V10_211228\SCH\MCF8316A_V10_211228.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -100,10 +100,45 @@
        "G:\SVN\hard_group\导线设备\trunk\HY_DXJK_V21A\SCH\HY_DXJK_V21A.csv")
     (IREFViewOutput "0")
     (File ".\mcf8316a_v10_211228.dsn"
-      (Type "Schematic Design")))
-  (Folder "Outputs")
+      (Type "Schematic Design"))
+    (GATE_&_PIN_SWAP_Scope "0")
+    (GATE_&_PIN_SWAP_File_Name
+       "G:\github\MotorDriver\HARDWARE\MCF8316A_V10_211228\SCH\rename.SWP")
+    (Backannotation_TAB "1"))
+  (Folder "Outputs"
+    (File ".\mcf8316a_v10_211228.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("CONN RCPT 10"
+      (FullPartName "CONN RCPT 10.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 8"
+      (FullPartName "CONN RCPT 8.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 6"
+      (FullPartName "CONN RCPT 6.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 19x2"
+      (FullPartName "CONN RCPT 19x2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (MCT8316A1VRGFR
+      (FullPartName "MCT8316A1VRGFR.Normal")
+      (LibraryName "E:\ONEDRIVE\ORCADCIS\SYMBOLS\IC.OLB")
+      (DeviceIndex "0"))
     (MCF8316A1VRGFR
       (FullPartName "MCF8316A1VRGFR.Normal")
       (LibraryName "E:\ONEDRIVE\ORCADCIS\SYMBOLS\IC.OLB")
@@ -180,26 +215,6 @@
       (DeviceIndex "0"))
     (OFFPAGELEFT-BIDIR
       (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (ADXL357BEZ
-      (FullPartName "ADXL357BEZ.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (ADT7420UCPZ
-      (FullPartName "ADT7420UCPZ.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (ADPS-9005
-      (FullPartName "ADPS-9005.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (SHT21
-      (FullPartName "SHT21.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (ADP160AUJZ-2.7
-      (FullPartName "ADP160AUJZ-2.7.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Administrator")
   (GlobalState
@@ -208,7 +223,8 @@
       (Path "Design Resources" ".\mcf8316a_v10_211228.dsn")
       (Path "Design Resources" ".\mcf8316a_v10_211228.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\mcf8316a_v10_211228.dsn" "MAIN"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\mcf8316a_v10_211228.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -219,8 +235,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1352 26 641")
-        (Scroll "-185 -9")
-        (Zoom "74")
+        (Scroll "596 111")
+        (Zoom "148")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\MCF8316A_V10_211228\SCH\MCF8316A_V10_211228.DSN")

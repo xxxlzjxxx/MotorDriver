@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Feb-21-2022 at 15:50:45 }
+{ Using PSTWRITER 17.2.0 d001Feb-22-2022 at 10:40:17 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.29" ignored for U1: MAIN, 03 TB67S109 (58.42, 30.48). Connecting pin to net "PA8/LED0".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.45" ignored for U1: MAIN, 03 TB67S109 (58.42, 30.48). Connecting pin to net "PB8/KEY0".

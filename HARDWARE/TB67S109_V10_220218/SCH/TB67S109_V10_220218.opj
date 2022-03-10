@@ -15,12 +15,12 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\SVN\hard_group\DXSB\trunk\HY_ADUCM3029_DEBUG_V10A\SCH\HY_ADUCM3029_DEBUG_V10A.BOM")
+       "G:\github\MotorDriver\HARDWARE\TB67S109_V10_220218\SCH\TB67S109_V10_220218.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
-       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
+       "{Item}\t{ERPcode}\t{Value}\t{Quantity}\t{Reference}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
     (BOM_Header
-       "Item\tQuantity\tReference\tPart\tPCB Footprint\tDescription\tCorporation\tType\tNote")
+       "Item\tERPcode\tPart\tQuantity\tReference\tPCB Footprint\tDescription\tCorporation\tType\tNote")
     (BOM_Include_File
        "D:\DESIGN\PCB\DESIGN\导线设备\TRUNK\HY_DXMB_V20A\SCH\HY_DXMB_V20A.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
@@ -112,7 +112,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\tb67s109_v10_220218.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (MCF8316A1VRGFR
@@ -231,8 +233,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "852 229")
-        (Zoom "148")
+        (Scroll "-185 -9")
+        (Zoom "74")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\TB67S109_V10_220218\SCH\TB67S109_V10_220218.DSN")

@@ -1,0 +1,74 @@
+Date and Time : 03/10/22 11:00:27
+
+--------------------------------------------------
+Checking Schematic: MAIN
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PF1 
+                    MAIN, 03 MCF8316A  (248.92, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF5 
+                    MAIN, 03 MCF8316A  (396.24, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC13 
+                    MAIN, 03 MCF8316A  (248.92, 215.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB7 
+                    MAIN, 03 MCF8316A  (248.92, 213.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC5 
+                    MAIN, 03 MCF8316A  (396.24, 193.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF7 
+                    MAIN, 03 MCF8316A  (248.92, 200.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF4 
+                    MAIN, 03 MCF8316A  (396.24, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB12 
+                    MAIN, 03 MCF8316A  (396.24, 205.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD8 
+                    MAIN, 03 MCF8316A  (396.24, 198.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC8 
+                    MAIN, 03 MCF8316A  (396.24, 187.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC2 
+                    MAIN, 03 MCF8316A  (248.92, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA14 
+                    MAIN, 03 MCF8316A  (248.92, 205.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB2 
+                    MAIN, 03 MCF8316A  (396.24, 213.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC6 
+                    MAIN, 03 MCF8316A  (396.24, 190.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB11 
+                    MAIN, 03 MCF8316A  (396.24, 208.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB15 
+                    MAIN, 03 MCF8316A  (396.24, 218.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections BOOT0 
+                    MAIN, 03 MCF8316A  (248.92, 195.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA11 
+                    MAIN, 03 MCF8316A  (396.24, 203.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA13 
+                    MAIN, 03 MCF8316A  (248.92, 203.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC4 
+                    MAIN, 03 MCF8316A  (396.24, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC14 
+                    MAIN, 03 MCF8316A  (248.92, 218.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF0 
+                    MAIN, 03 MCF8316A  (248.92, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB13 
+                    MAIN, 03 MCF8316A  (396.24, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB14 
+                    MAIN, 03 MCF8316A  (396.24, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PF6 
+                    MAIN, 03 MCF8316A  (248.92, 198.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA12 
+                    MAIN, 03 MCF8316A  (396.24, 200.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB1 
+                    MAIN, 03 MCF8316A  (396.24, 215.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC15 
+                    MAIN, 03 MCF8316A  (248.92, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections VBAT/VLCD 
+                    MAIN, 03 MCF8316A  (248.92, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections U5V 
+                    MAIN, 03 MCF8316A  (396.24, 195.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections VDD 
+                    MAIN, 03 MCF8316A  (248.92, 193.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections E5V 
+                    MAIN, 03 MCF8316A  (281.94, 193.04) 
+
+Checking For Unconnected Bus Nets

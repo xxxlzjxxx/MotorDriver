@@ -1,0 +1,20 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  MCF8316A_V10_211228.brd*
+G04 Film Name:    PasteMask_Bottom*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.2-S071*
+G04 Origin Date:  Thu Mar 10 20:12:21 2022*
+G04 *
+G04 Layer:  PIN/PASTEMASK_BOTTOM*
+G04 Layer:  PACKAGE GEOMETRY/PASTEMASK_BOTTOM*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.1524*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX55Y55*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+M02*

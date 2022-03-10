@@ -15,3 +15,7 @@
 2022-02-21T15:50:54 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstxnet.dat"
 2022-02-21T15:50:54 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstxprt.dat"
 2022-02-21T15:50:54 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstdmlmodels.dat"
+2022-02-22T10:40:27 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstchip.dat"
+2022-02-22T10:40:27 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstxnet.dat"
+2022-02-22T10:40:27 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstxprt.dat"
+2022-02-22T10:40:27 ===> "G:/github/MotorDriver/HARDWARE/TB67S109_V10_220218/SCH/allegro/pstdmlmodels.dat"

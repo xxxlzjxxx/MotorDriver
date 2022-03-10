@@ -128,14 +128,14 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "G:\github\MotorDriver\HARDWARE\JY02_V10_220108\SCH\jy02_v10_220108.dsn")
+         "g:\github\motordriver\hardware\jy02_v10_220108\sch\jy02_v10_220108.dsn")
       (Path "Design Resources"
-         "G:\github\MotorDriver\HARDWARE\JY02_V10_220108\SCH\jy02_v10_220108.dsn"
+         "g:\github\motordriver\hardware\jy02_v10_220108\sch\jy02_v10_220108.dsn"
          "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "G:\github\MotorDriver\HARDWARE\JY02_V10_220108\SCH\jy02_v10_220108.dsn"
+         "g:\github\motordriver\hardware\jy02_v10_220108\sch\jy02_v10_220108.dsn"
          "SCH" "05 POWER"))
     (HierarchyView)
     (Doc
@@ -146,14 +146,25 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 234 1307 234 853")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1014 234 853")
         (Scroll "0 0")
-        (Zoom "200")
+        (Zoom "148")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\JY02_V10_220108\SCH\JY02_V10_220108.DSN")
       (Schematic "SCH")
-      (Page "05 POWER")))
+      (Page "05 POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1333 260 879")
+        (Scroll "0 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "G:\GITHUB\MOTORDRIVER\HARDWARE\JY02_V10_220108\SCH\JY02_V10_220108.DSN")
+      (Schematic "SCH")
+      (Page "04 JY02A")))
   (PartMRUSelector
     ("CONN RCPT 2"
       (FullPartName "CONN RCPT 2.Normal")
