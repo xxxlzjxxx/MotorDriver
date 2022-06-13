@@ -1,0 +1,2030 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-10-2022 at 14:56:38 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MM32SPIN27PF_V10_220608';
+ POST_TIME='Nov 12 2021 16:47:14';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C100 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331770@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331770@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331770@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334271@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334271@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334271@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334283@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334283@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334283@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP NP_3_C1206_10UF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335133@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335133@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335133@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331422@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331422@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331422@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279689@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279689@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279689@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_3_C0402_100PF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17300187@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17300187@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17300187@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17300830@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17300830@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17300830@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_3_C0402_100PF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17301894@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17301894@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17301894@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_3_C0402_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17302126@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17302126@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17302126@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C1206_4.7UF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303284@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303284@discrete.\cap np.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303284@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303327@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303327@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303327@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303626@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303626@discrete.\cap np.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303626@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C1206_4.7UF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305024@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305024@discrete.\cap np.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305024@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_3_C1206_10UF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335125@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335125@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335125@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_C1206_4.7UF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305560@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305560@discrete.\cap np.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305560@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334928@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334928@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334928@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17257069@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17257069@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17257069@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_3_C0402_47PF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335201@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335201@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335201@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17257246@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17257246@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17257246@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_3_C0402_10NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335215@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335215@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335215@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335000@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335000@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335000@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335016@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335016@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335016@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334992@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334992@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334992@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335008@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335008@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335008@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17271137@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17271137@discrete.\cap np.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17271137@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17306872@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17306872@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17306872@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17308109@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17308109@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17308109@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP NP_3_C0402_4.7NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309592@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309592@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309592@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP NP_3_C0402_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309674@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309674@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309674@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP NP_3_C0402_4.7NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310048@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310048@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310048@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP NP_3_C0402_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310056@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310056@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310056@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP NP_3_C0402_4.7NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310519@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310519@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310519@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP NP_3_C0402_1NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310527@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310527@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310527@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP NP_3_C0402_4.7NF_50V/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311476@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311476@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311476@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17325834@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17325834@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17325834@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP NP_3_C0805_10UF_25V':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331758@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331758@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331758@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CN7 'CONN RCPT 5_CN1X5-2P54-Z_CN1X5-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311861@CONNECTOR.CONN RCPT 5.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311861@connector.\conn rcpt 5.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311861@connector.\conn rcpt 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17304523@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17304523@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17304523@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305014@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305014@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305014@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305075@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305075@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305075@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305178@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305178@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305178@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305550@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305550@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305550@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305611@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305611@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305611@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305714@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305714@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305714@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D17 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309248@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309248@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309248@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D18 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309396@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309396@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309396@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D19 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309925@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309925@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309925@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'XL-2012SURUGC_XL-2012SURUGC_XL-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17257257@HYOC.XL-2012SURUGC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17257257@hyoc.\xl-2012surugc.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17257257@hyoc.\xl-2012surugc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D20 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309944@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309944@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309944@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D21 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310398@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310398@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310398@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D22 'XL-2012SURUGC_XL-2012SURUGC_XL-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17322911@HYOC.XL-2012SURUGC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17322911@hyoc.\xl-2012surugc.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17322911@hyoc.\xl-2012surugc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE13_9_SMAF_SS56F':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331354@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331354@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331354@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'XL-2012SURUGC_XL-2012SURUGC_XL-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17280544@HYOC.XL-2012SURUGC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17280544@hyoc.\xl-2012surugc.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17280544@hyoc.\xl-2012surugc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303210@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303210@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303210@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE13_9_SMAF_SS56F':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334984@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334984@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334984@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE13_9_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17304317@ZHZK_DTU_F103VE_V10A.DIODE13_9.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17304317@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17304317@zhzk_dtu_f103ve_v10a.\diode13_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC1 'DC005_DC005_DC005':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331287@HYOC.DC005.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331287@hyoc.\dc005.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331287@hyoc.\dc005.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE1206_0469005.WR':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331308@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331308@hyoc.\fuse.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331308@hyoc.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HX30002-10A_2_HX42003-8WAF_HX42':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17313779@HY_HWYT_JK_V10A.HX30002-10A_2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17313779@hy_hwyt_jk_v10a.\hx30002-10a_2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17313779@hy_hwyt_jk_v10a.\hx30002-10a_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN RCPT 2_KF7R62-2P_KF7.62-2P':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331298@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331298@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331298@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'DC3-10P-Z-L_DC3-10P-Z_DC3-10P-Z':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17256791@HYOC.DC3-10P-Z-L.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17256791@hyoc.\dc3-10p-z-l.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17256791@hyoc.\dc3-10p-z-l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP10 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309973@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309973@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309973@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP11 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309639@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309639@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309639@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP12 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309361@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309361@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309361@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP13 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309376@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309376@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309376@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP14 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309935@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309935@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309935@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP15 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309964@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309964@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309964@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP3 'CONN RCPT 2_CN1X2-2P54-Z_CN1X2-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17315482@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17315482@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17315482@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP4 'CONN RCPT 2_CN1X2-2P54-Z_CN1X2-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17315386@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17315386@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17315386@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP5 'CONN RCPT 2_CN1X2-2P54-Z_CN1X2-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17315266@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17315266@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17315266@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP6 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310406@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310406@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310406@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP7 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17316758@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17316758@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17316758@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP8 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17316671@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17316671@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17316671@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP9 'CONN RCPT 3_CN1X3-2P54-Z_CN1X3-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310444@CONNECTOR.CONN RCPT 3.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310444@connector.\conn rcpt 3.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310444@connector.\conn rcpt 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_0_L10040_SMMS1040-6R8':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334936@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334936@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334936@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17288346@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17288346@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17288346@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17288353@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17288353@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17288353@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17288368@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17288368@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17288368@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLE6R90X3R40_HOLE_M3/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17288375@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17288375@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17288375@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'IRF7351TRPBF_SOIC8_NCE6005AS':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303379@IC.IRF7351TRPBF.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303379@ic.\irf7351trpbf.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303379@ic.\irf7351trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'IRF7351TRPBF_SOIC8_NCE6005AS':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305089@IC.IRF7351TRPBF.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305089@ic.\irf7351trpbf.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305089@ic.\irf7351trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'IRF7351TRPBF_SOIC8_NCE6005AS':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305625@IC.IRF7351TRPBF.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305625@ic.\irf7351trpbf.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305625@ic.\irf7351trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17257349@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17257349@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17257349@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17271125@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17271125@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17271125@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'R_GENERIC_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310467@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310467@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310467@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310499@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310499@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310499@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310933@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310933@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310933@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'R_GENERIC_R0402_27K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311234@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311234@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311234@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'R_GENERIC_R0402_27K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311247@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311247@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311247@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'R_GENERIC_R0402_27K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311260@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311260@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311260@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'R_GENERIC_R0402_22K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311322@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311322@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311322@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'R_GENERIC_R0402_4.99K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17311416@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17311416@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17311416@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17312008@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17312008@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17312008@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17312021@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17312021@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17312021@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17312034@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17312034@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17312034@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17312215@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17312215@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17312215@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17312228@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17312228@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17312228@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17312241@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17312241@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17312241@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'R_GENERIC_R0402_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17314325@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17314325@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17314325@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'R_GENERIC_R0402_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17314338@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17314338@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17314338@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'R_GENERIC_R0402_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17314351@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17314351@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17314351@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'R_GENERIC_R0402_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17314364@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17314364@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17314364@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'R_GENERIC_R0402_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17314377@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17314377@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17314377@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'R_GENERIC_R0402_10K/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17314390@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17314390@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17314390@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17322921@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17322921@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17322921@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17322937@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17322937@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17322937@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R123 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17325816@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17325816@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17325816@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R124 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17325842@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17325842@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17325842@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R125 'R_GENERIC_R0402_33K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17333578@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17333578@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17333578@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R126 'R_GENERIC_R0402_20K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17333586@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17333586@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17333586@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R127 'R_GENERIC_R0402_63.4K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334263@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334263@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334263@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R128 'R_GENERIC_R0402_20K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334319@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334319@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334319@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R129 'R_GENERIC_R0402_200K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335024@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335024@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335024@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R130 'R_GENERIC_R0402_330K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335105@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335105@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335105@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R131 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335149@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335149@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335149@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R132 'R_GENERIC_R0402_14.3K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335157@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335157@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335157@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R133 'R_GENERIC_R0402_75K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335183@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335183@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335183@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R134 'R_GENERIC_R0402_200K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335191@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335191@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335191@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17256866@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17256866@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17256866@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331342@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331342@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331342@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331400@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331400@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331400@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279562@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279562@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279562@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279589@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279589@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279589@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17256877@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17256877@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17256877@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279635@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279635@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279635@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_GENERIC_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17256725@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17256725@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17256725@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279665@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279665@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279665@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17297368@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17297368@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17297368@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17297654@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17297654@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17297654@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_GENERIC_R0402_4.99K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17297779@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17297779@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17297779@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17297792@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17297792@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17297792@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17297805@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17297805@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17297805@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298313@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298313@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298313@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_GENERIC_R0402_4.99K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298321@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298321@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298321@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298356@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298356@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298356@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298370@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298370@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298370@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298396@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298396@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298396@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298750@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298750@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298750@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_GENERIC_R0402_4.99K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298758@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298758@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298758@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298784@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298784@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298784@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298807@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298807@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298807@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298832@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298832@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298832@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_GENERIC_R0402_36K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17299446@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17299446@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17299446@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_GENERIC_R0402_1.2K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17299469@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17299469@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17299469@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17299492@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17299492@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17299492@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_GENERIC_R0402_6.2K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17300635@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17300635@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17300635@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17300740@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17300740@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17300740@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17301602@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17301602@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17301602@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17301625@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17301625@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17301625@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_GENERIC_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17301648@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17301648@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17301648@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303543@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303543@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303543@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_GENERIC_R2512_0R05':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303671@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303671@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303671@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17304377@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17304377@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17304377@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17304553@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17304553@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17304553@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305058@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305058@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305058@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305109@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305109@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305109@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305140@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305140@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305140@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305186@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305186@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305186@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_GENERIC_R2512_0R05':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305205@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305205@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305205@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305594@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305594@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305594@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305645@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305645@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305645@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305676@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305676@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305676@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305722@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305722@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305722@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_GENERIC_R2512_0R05':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17305741@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17305741@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17305741@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_GENERIC_R2512_0R05':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17306251@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17306251@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17306251@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'CONN RCPT 2_CN1X2-2P54-Z_MF52A1':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17306837@CONNECTOR.CONN RCPT 2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17306837@connector.\conn rcpt 2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17306837@connector.\conn rcpt 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17306864@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17306864@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17306864@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_GENERIC_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303451@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303451@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303451@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17308652@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17308652@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17308652@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309261@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309261@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309261@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309326@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309326@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309326@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309427@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309427@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309427@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'R_GENERIC_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309440@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309440@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309440@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309917@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309917@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309917@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309956@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309956@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309956@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'R_GENERIC_R0402_56K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17309996@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17309996@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17309996@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17310028@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17310028@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17310028@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RP2 '3296W-1-503_3296W_3296W-1-503':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17307841@HYOC.3296W-1-503.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17307841@hyoc.\3296w-1-503.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17307841@hyoc.\3296w-1-503.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17271160@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17271160@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17271160@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH_3P_SS-12D11G3R_SS-12D11G':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331256@HYOC.SWITCH_3P.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331256@hyoc.\switch_3p.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331256@hyoc.\switch_3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17257080@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17257080@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17257080@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17323548@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17323548@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17323548@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17323718@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17323718@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17323718@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW6 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17324017@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17324017@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17324017@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP18 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331714@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331714@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331714@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP19 'TESTPOINT_TP-0R75_TESTPOINT/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334215@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334215@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334215@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331362@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331362@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331362@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP20 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334921@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334921@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334921@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298618@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298618@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298618@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17298795@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17298795@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17298795@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP6 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17299457@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17299457@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17299457@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'TPS54340DDAR_SOIC8-3R10X2R40_TP':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17335032@IC.TPS54340DDAR.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17335032@ic.\tps54340ddar.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17335032@ic.\tps54340ddar.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'SPX3819M5-L-1-2_SOT23-5_SPX3819':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331725@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331725@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331725@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'SPX3819M5-L-1-2_SOT23-5_SPX3819':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17334226@XXXLZJXXX.SPX3819M5-L-1-2.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17334226@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17334226@xxxlzjxxx.\spx3819m5-l-1-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'PRTR5V0U2X_SOT143B_PRTR5V0U2X':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17331408@SUN3530.PRTR5V0U2X.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17331408@sun3530.\prtr5v0u2x.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17331408@sun3530.\prtr5v0u2x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'CH340E_MSOP10_CH340E':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279612@IC.CH340E.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279612@ic.\ch340e.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279612@ic.\ch340e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'PRTR5V0U2X_SOT143B_PRTR5V0U2X':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17279909@SUN3530.PRTR5V0U2X.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17279909@sun3530.\prtr5v0u2x.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17279909@sun3530.\prtr5v0u2x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MM32SPIN27PF_LQFP48-7X7X0R5_MM3':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17292155@IC.MM32SPIN27PF.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17292155@ic.\mm32spin27pf.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17292155@ic.\mm32spin27pf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'EG2124A_TSSOP20_EG2124A':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17303242@IC.EG2124A.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17303242@ic.\eg2124a.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page4_ins17303242@ic.\eg2124a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'TYPE-C_0_TYPE-C-31-M-12_TYPE-C-':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17256918@B-G431B-ESC1_V10_211203.TYPE-C_0.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17256918@\b-g431b-esc1_v10_211203\.\type-c_0.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17256918@\b-g431b-esc1_v10_211203\.\type-c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_5032_0_X-3P-3R2X1R3-SMD_CS':;
+
+SECTION_NUMBER 1
+ '@MM32SPIN27PF_V10_220608.MAIN(SCH_1):INS17257233@EZFET_V10B.XTAL_5032_0.NORMAL(CHIPS)':
+ C_PATH='@mm32spin27pf_v10_220608.main(sch_1):ins17257233@ezfet_v10b.\xtal_5032_0.normal\(chips)',
+ P_PATH='@mm32spin27pf_v10_220608.main(sch_1):page3_ins17257233@ezfet_v10b.\xtal_5032_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

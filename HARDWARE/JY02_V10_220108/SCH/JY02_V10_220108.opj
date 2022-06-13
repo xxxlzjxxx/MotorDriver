@@ -127,16 +127,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "g:\github\motordriver\hardware\jy02_v10_220108\sch\jy02_v10_220108.dsn")
-      (Path "Design Resources"
-         "g:\github\motordriver\hardware\jy02_v10_220108\sch\jy02_v10_220108.dsn"
-         "SCH")
+      (Path "Design Resources" ".\jy02_v10_220108.dsn")
+      (Path "Design Resources" ".\jy02_v10_220108.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "g:\github\motordriver\hardware\jy02_v10_220108\sch\jy02_v10_220108.dsn"
-         "SCH" "05 POWER"))
+      (Select "Design Resources" ".\jy02_v10_220108.dsn" "SCH" "03 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -146,9 +141,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1014 234 853")
-        (Scroll "0 0")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1255 182 801")
+        (Scroll "164 0")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\JY02_V10_220108\SCH\JY02_V10_220108.DSN")
@@ -157,9 +152,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 260 1333 260 879")
-        (Scroll "0 0")
-        (Zoom "74")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1147 78 697")
+        (Scroll "266 1166")
+        (Zoom "244")
+        (Occurrence "/"))
+      (Path
+         "G:\GITHUB\MOTORDRIVER\HARDWARE\JY02_V10_220108\SCH\JY02_V10_220108.DSN")
+      (Schematic "SCH")
+      (Page "03 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 208 1228 208 827")
+        (Scroll "0 2578")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\JY02_V10_220108\SCH\JY02_V10_220108.DSN")

@@ -1,0 +1,35 @@
+{ Using PSTWRITER 17.2.0 d001Jun-10-2022 at 14:56:37 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U8.35" ignored for U8: MAIN, 03 MM32SPIN27PF (63.50, 43.18). Connecting pin to net "PD2/LED0".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.7" ignored for J3: MAIN, 03 MM32SPIN27PF (109.22, 203.20). Connecting pin to net "PB8/UART1_RX".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.5" ignored for J3: MAIN, 03 MM32SPIN27PF (109.22, 203.20). Connecting pin to net "PB9/UART1_TX".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U29.4" ignored for U29: MAIN, 04 GATE (68.58, 223.52). Connecting pin to net "N17333710".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U30.4" ignored for U30: MAIN, 04 GATE (68.58, 259.08). Connecting pin to net "N17334296".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 03 MM32SPIN27PF (248.92, 256.54). Connecting pin to net "GND".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 03 MM32SPIN27PF (269.24, 256.54). Connecting pin to net "GND".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 03 MM32SPIN27PF (269.24, 274.32). Connecting pin to net "GND".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "DC1.2" ignored for DC1: MAIN, 04 GATE (12.70, 73.66). Connecting pin to net "GND".
+#10 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-5R0-13X27_1000UF_50V" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#11 WARNING(ORCAP-36006): Part Name "CONN RCPT 5_CN1X5-2P54-Z_CN1X5-2P54-Z" is renamed to "CONN RCPT 5_CN1X5-2P54-Z_CN1X5-".
+#12 WARNING(ORCAP-36006): Part Name "XL-2012SURUGC_XL-2012SURUGC_XL-2012SURUGC" is renamed to "XL-2012SURUGC_XL-2012SURUGC_XL-".
+#13 WARNING(ORCAP-36006): Part Name "HX30002-10A_2_HX42003-8WAF_HX42003-8WAF" is renamed to "HX30002-10A_2_HX42003-8WAF_HX42".
+#14 WARNING(ORCAP-36006): Part Name "CONN RCPT 3_CN1X3-2P54-Z_CN1X3-2P54-Z" is renamed to "CONN RCPT 3_CN1X3-2P54-Z_CN1X3-".
+#15 WARNING(ORCAP-36006): Part Name "CONN RCPT 2_CN1X2-2P54-Z_CN1X2-2P54-Z" is renamed to "CONN RCPT 2_CN1X2-2P54-Z_CN1X2-".
+#16 WARNING(ORCAP-36006): Part Name "CONN RCPT 2_CN1X2-2P54-Z_MF52A103F3950(A1)" is renamed to "CONN RCPT 2_CN1X2-2P54-Z_MF52A1".
+#17 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#18 WARNING(ORCAP-36006): Part Name "SWITCH_3P_SS-12D11G3R_SS-12D11G3R" is renamed to "SWITCH_3P_SS-12D11G3R_SS-12D11G".
+#19 WARNING(ORCAP-36006): Part Name "TPS54340DDAR_SOIC8-3R10X2R40_TPS54340DDAR" is renamed to "TPS54340DDAR_SOIC8-3R10X2R40_TP".
+#20 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-ADJ" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#21 WARNING(ORCAP-36006): Part Name "MM32SPIN27PF_LQFP48-7X7X0R5_MM32SPIN27PF" is renamed to "MM32SPIN27PF_LQFP48-7X7X0R5_MM3".
+#22 WARNING(ORCAP-36006): Part Name "TYPE-C_0_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_0_TYPE-C-31-M-12_TYPE-C-".
+#23 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G15C99-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\github\MotorDriver\HARDWARE\MM32SPIN27PF_V10_220608\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\MM32SPIN27PF_V10_220608\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\MM32SPIN27PF_V10_220608\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\MM32SPIN27PF_V10_220608\SCH\allegro/pstxnet.dat
+packaging the design view...

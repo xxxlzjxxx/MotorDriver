@@ -1,0 +1,75 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.34.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: xxxlzjxxx xxxlzjxxx, HYOC, LIC=UJWP0-BHIYU-9UD4U-SLRF9-H7EGV-1XR1W
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.34.0.0
+Toolchain Path:  D:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.34.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.8.0
+Dialog DLL:      TCM.DLL V1.48.0.0
+ 
+<h2>Project:</h2>
+G:\github\MotorDriver\SOFTWARE\JY02_1R3TFT\USER\OLED.uvprojx
+Project File Date:  03/23/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
+*** Note: Rebuilding project, since 'Options->Output->Create Batch File' is selected.
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(9): warning:  #177-D: variable "i"  was declared but never referenced
+        u8 i,m;
+main.c(9): warning:  #177-D: variable "m"  was declared but never referenced
+        u8 i,m;
+main.c(10): warning:  #177-D: variable "t"  was declared but never referenced
+        float t=0;
+main.c: 3 warnings, 0 errors
+compiling stm32f10x_it.c...
+compiling system_stm32f10x.c...
+compiling lcd.c...
+..\HARDWARE\LCD\lcd.c(392): warning:  #177-D: variable "di"  was declared but never referenced
+        int di;
+..\HARDWARE\LCD\lcd.c(528): warning:  #177-D: variable "enshow"  was declared but never referenced
+        u8 enshow=0;
+..\HARDWARE\LCD\lcd.c: 2 warnings, 0 errors
+compiling delay.c...
+compiling sys.c...
+compiling usart.c...
+compiling core_cm3.c...
+assembling startup_stm32f10x_hd.s...
+compiling misc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+linking...
+Program Size: Code=7200 RO-data=117056 RW-data=920 ZI-data=4904  
+FromELF: creating hex file...
+"..\OBJ\1R3TFT.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.3.0.pack
+                Keil.STM32F1xx_DFP.2.3.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:05
+</pre>
+</body>
+</html>

@@ -222,7 +222,8 @@
       (Path "Design Resources" ".\tb67s109_v10_220218.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\tb67s109_v10_220218.dsn"))
+      (Select "Design Resources" ".\tb67s109_v10_220218.dsn" "MAIN"
+         "03 TB67S109"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -233,8 +234,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "-185 -9")
-        (Zoom "74")
+        (Scroll "0 699")
+        (Zoom "148")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\TB67S109_V10_220218\SCH\TB67S109_V10_220218.DSN")

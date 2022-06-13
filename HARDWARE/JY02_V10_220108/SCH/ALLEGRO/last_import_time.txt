@@ -23,3 +23,8 @@
 2022-02-15T11:02:13 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstxnet.dat"
 2022-02-15T11:02:13 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstxprt.dat"
 2022-02-15T11:02:13 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstdmlmodels.dat"
+2022-03-12T09:56:49 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pxlBA.txt"
+2022-03-12T09:56:57 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstchip.dat"
+2022-03-12T09:56:57 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstxnet.dat"
+2022-03-12T09:56:57 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstxprt.dat"
+2022-03-12T09:56:57 ===> "G:/github/MotorDriver/HARDWARE/JY02_V10_220108/SCH/ALLEGRO/pstdmlmodels.dat"
