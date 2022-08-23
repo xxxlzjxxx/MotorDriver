@@ -224,7 +224,8 @@
       (Path "Design Resources" ".\mcf8316a_v10_211228.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mcf8316a_v10_211228.dsn"))
+      (Select "Design Resources" ".\mcf8316a_v10_211228.dsn" "MAIN"
+         "03 MCF8316A"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -235,8 +236,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1352 26 641")
-        (Scroll "596 111")
-        (Zoom "148")
+        (Scroll "-57 -9")
+        (Zoom "74")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\MCF8316A_V10_211228\SCH\MCF8316A_V10_211228.DSN")

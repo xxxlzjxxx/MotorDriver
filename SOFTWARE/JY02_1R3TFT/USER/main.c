@@ -2,19 +2,29 @@
 #include "sys.h"
 #include "lcd.h"
 #include "usart.h"
+#include "adc.h"
+#include "led.h"
+#include "key.h"
 
 
 int main(void)
 {	
 	u8 i,m;
-	float t=0;
-	delay_init();	    	 //ÑÓÊ±º¯Êı³õÊ¼»¯	  
-	NVIC_Configuration(); 	 //ÉèÖÃNVICÖĞ¶Ï·Ö×é2:2Î»ÇÀÕ¼ÓÅÏÈ¼¶£¬2Î»ÏìÓ¦ÓÅÏÈ¼¶
+	float t = 0;
+	float adcx = 0;
+	char aa[6];
+
+
+	delay_init();	    	 //å»¶æ—¶å‡½æ•°åˆå§‹åŒ–	  
+	NVIC_Configuration(); 	 //è®¾ç½®NVICä¸­æ–­åˆ†ç»„2:2ä½æŠ¢å ä¼˜å…ˆçº§ï¼Œ2ä½å“åº”ä¼˜å…ˆçº§
+	LED_Init();
 	uart_init(115200);
-	Lcd_Init();			//³õÊ¼»¯OLED  
+	Adc_Init();
+
+	Lcd_Init();			//åˆå§‹åŒ–OLED  
 	LCD_Clear(WHITE);
 	BACK_COLOR=WHITE;
-//ÏÔÊ¾¿ª»ú»­Ãæ
+//æ˜¾ç¤ºå¼€æœºç”»é¢
 	LCD_ShowString(8,10, "---------BLD25-24GN----------", BLACK);
 	
 	LCD_Fill(0,30,0+240,30+9,BLACK);
@@ -33,7 +43,19 @@ int main(void)
 	LCD_ShowString(10,220, "VOLT:     V", BLUE);
 	LCD_ShowString(140,220,"CURR:     A", BLUE);
 
-	while(1);
+	while(1){
+		adcx = Get_Adc_Average(ADC_Channel_11,10);	//work_volt
+		adcx = adcx * 11;
+		sprintf(aa,"%2.3f",adcx);//æµ®ç‚¹å‹æ•°æ®è½¬ä¸ºæŒ‡å®šæ ¼å¼çš„å­—ç¬¦ä¸²
+		LCD_ShowString(10+5*8, 220, aa, BLUE);
+
+		adcx = Get_Adc_Average(ADC_Channel_10,10);	//work_curr
+		adcx = (adcx - 1.65) * 0.132;
+		sprintf(aa,"%2.3f",adcx);//æµ®ç‚¹å‹æ•°æ®è½¬ä¸ºæŒ‡å®šæ ¼å¼çš„å­—ç¬¦ä¸²
+		LCD_ShowString(140+5*8, 220, aa, BLUE);
+		
+		delay_ms(300);
+	}
 }
  
 

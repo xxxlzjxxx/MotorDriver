@@ -1,0 +1,5 @@
+2022-08-19T10:01:33 ===> "G:/github/MotorDriver/HARDWARE/EG2124A_V10_220802/SCH/allegro/pxlBA.txt"
+2022-08-19T10:01:40 ===> "G:/github/MotorDriver/HARDWARE/EG2124A_V10_220802/SCH/allegro/pstchip.dat"
+2022-08-19T10:01:40 ===> "G:/github/MotorDriver/HARDWARE/EG2124A_V10_220802/SCH/allegro/pstxnet.dat"
+2022-08-19T10:01:40 ===> "G:/github/MotorDriver/HARDWARE/EG2124A_V10_220802/SCH/allegro/pstxprt.dat"
+2022-08-19T10:01:40 ===> "G:/github/MotorDriver/HARDWARE/EG2124A_V10_220802/SCH/allegro/pstdmlmodels.dat"

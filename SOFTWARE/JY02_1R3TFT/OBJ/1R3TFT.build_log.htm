@@ -17,25 +17,29 @@ Library Manager: ArmAr.exe V5.06 update 7 (build 960)
 Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
 CPU DLL:         SARMCM3.DLL V5.34.0.0
 Dialog DLL:      DCM.DLL V1.17.3.0
-Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.8.0
+Target DLL:      UL2CM3.DLL V1.163.9.0
 Dialog DLL:      TCM.DLL V1.48.0.0
  
 <h2>Project:</h2>
 G:\github\MotorDriver\SOFTWARE\JY02_1R3TFT\USER\OLED.uvprojx
-Project File Date:  03/23/2022
+Project File Date:  06/17/2022
 
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
 *** Note: Rebuilding project, since 'Options->Output->Create Batch File' is selected.
 Rebuild target 'Target 1'
 compiling main.c...
-main.c(9): warning:  #177-D: variable "i"  was declared but never referenced
+main.c(50): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "const unsigned char *"
+                LCD_ShowString(10+5*8, 220, aa, BLUE);
+main.c(55): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "const unsigned char *"
+                LCD_ShowString(140+5*8, 220, aa, BLUE);
+main.c(12): warning:  #177-D: variable "i"  was declared but never referenced
         u8 i,m;
-main.c(9): warning:  #177-D: variable "m"  was declared but never referenced
+main.c(12): warning:  #177-D: variable "m"  was declared but never referenced
         u8 i,m;
-main.c(10): warning:  #177-D: variable "t"  was declared but never referenced
-        float t=0;
-main.c: 3 warnings, 0 errors
+main.c(13): warning:  #177-D: variable "t"  was declared but never referenced
+        float t = 0;
+main.c: 5 warnings, 0 errors
 compiling stm32f10x_it.c...
 compiling system_stm32f10x.c...
 compiling lcd.c...
@@ -44,6 +48,9 @@ compiling lcd.c...
 ..\HARDWARE\LCD\lcd.c(528): warning:  #177-D: variable "enshow"  was declared but never referenced
         u8 enshow=0;
 ..\HARDWARE\LCD\lcd.c: 2 warnings, 0 errors
+compiling key.c...
+compiling adc.c...
+compiling led.c...
 compiling delay.c...
 compiling sys.c...
 compiling usart.c...
@@ -53,10 +60,11 @@ compiling misc.c...
 compiling stm32f10x_gpio.c...
 compiling stm32f10x_rcc.c...
 compiling stm32f10x_usart.c...
+compiling stm32f10x_adc.c...
 linking...
-Program Size: Code=7200 RO-data=117056 RW-data=920 ZI-data=4904  
+Program Size: Code=14540 RO-data=117232 RW-data=920 ZI-data=4904  
 FromELF: creating hex file...
-"..\OBJ\1R3TFT.axf" - 0 Error(s), 5 Warning(s).
+"..\OBJ\1R3TFT.axf" - 0 Error(s), 7 Warning(s).
 
 <h2>Software Packages used:</h2>
 

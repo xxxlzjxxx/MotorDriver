@@ -1,0 +1,30 @@
+{ Using PSTWRITER 17.2.0 d001Jun-22-2022 at 11:43:13 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "DC1.2" ignored for DC1: MAIN, 03 DRV8313 (228.60, 30.48). Connecting pin to net "GND".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 03 DRV8313 (35.56, 236.22). Connecting pin to net "GND".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 03 DRV8313 (55.88, 236.22). Connecting pin to net "GND".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 03 DRV8313 (55.88, 254.00). Connecting pin to net "GND".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U17.11" ignored for U17: MAIN, 03 DRV8313 (355.60, 86.36). Connecting pin to net "N17294151".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U17.9" ignored for U17: MAIN, 03 DRV8313 (355.60, 86.36). Connecting pin to net "N17294145".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U17.13" ignored for U17: MAIN, 03 DRV8313 (355.60, 86.36). Connecting pin to net "N17294165".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U17.12" ignored for U17: MAIN, 03 DRV8313 (355.60, 86.36). Connecting pin to net "HALL_H1".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U17.10" ignored for U17: MAIN, 03 DRV8313 (355.60, 86.36). Connecting pin to net "HALL_H2".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U17.8" ignored for U17: MAIN, 03 DRV8313 (355.60, 86.36). Connecting pin to net "HALL_H3".
+#11 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-3R0-8X12_100UF_50V" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#12 WARNING(ORCAP-36006): Part Name "DIODE13_9_SOD523_LRB521S-40T1G/NI" is renamed to "DIODE13_9_SOD523_LRB521S-40T1G/".
+#13 WARNING(ORCAP-36006): Part Name "CONN RCPT 15X2_CN2X15-2P54-Z_CN2X15-2P54-Z" is renamed to "CONN RCPT 15X2_CN2X15-2P54-Z_CN".
+#14 WARNING(ORCAP-36006): Part Name "HX30002-10A_1_HX42003-8WAF_HX42003-8WAF" is renamed to "HX30002-10A_1_HX42003-8WAF_HX42".
+#15 WARNING(ORCAP-36006): Part Name "SN74LVC14APW_TSSOP14_SN74LVC14APW" is renamed to "SN74LVC14APW_TSSOP14_SN74LVC14A".
+#16 WARNING(ORCAP-36006): Part Name "INA199A2DCKR_SOT363_INA199A2DCKR" is renamed to "INA199A2DCKR_SOT363_INA199A2DCK".
+#17 WARNING(ORCAP-36006): Part Name "DRV8313PWP_HTSSOP28-9R8X4R5X0R65-5R6X3R1_DRV8313PWP" is renamed to "DRV8313PWP_HTSSOP28-9R8X4R5X0R6".
+#18 WARNING(ORCAP-36006): Part Name "ME2135A50M6G_SOT23-6_ME2135A50M6G" is renamed to "ME2135A50M6G_SOT23-6_ME2135A50M".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\github\MotorDriver\HARDWARE\DRV8313_V10_220621\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\DRV8313_V10_220621\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\DRV8313_V10_220621\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\DRV8313_V10_220621\SCH\allegro/pstxnet.dat
+packaging the design view...

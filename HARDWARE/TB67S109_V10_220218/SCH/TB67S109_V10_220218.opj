@@ -218,12 +218,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\tb67s109_v10_220218.dsn")
-      (Path "Design Resources" ".\tb67s109_v10_220218.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\tb67s109_v10_220218.dsn" "MAIN"
-         "03 TB67S109"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -234,7 +231,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "0 699")
+        (Scroll "144 514")
         (Zoom "148")
         (Occurrence "/"))
       (Path

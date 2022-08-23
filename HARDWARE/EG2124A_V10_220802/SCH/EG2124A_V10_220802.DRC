@@ -1,0 +1,90 @@
+Date and Time : 08/19/22 09:59:33
+
+--------------------------------------------------
+Checking Schematic: MAIN
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PB8 
+                    MAIN, 03 EG2124A  (332.74, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD14 
+                    MAIN, 03 EG2124A  (254.00, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB10 
+                    MAIN, 03 EG2124A  (292.10, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD6 
+                    MAIN, 03 EG2124A  (332.74, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD0 
+                    MAIN, 03 EG2124A  (332.74, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE3 
+                    MAIN, 03 EG2124A  (370.84, 215.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD15 
+                    MAIN, 03 EG2124A  (292.10, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC11 
+                    MAIN, 03 EG2124A  (332.74, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB14 
+                    MAIN, 03 EG2124A  (254.00, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA8 
+                    MAIN, 03 EG2124A  (370.84, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD7 
+                    MAIN, 03 EG2124A  (370.84, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD12 
+                    MAIN, 03 EG2124A  (254.00, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC8 
+                    MAIN, 03 EG2124A  (370.84, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC7 
+                    MAIN, 03 EG2124A  (332.74, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC10 
+                    MAIN, 03 EG2124A  (370.84, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD1 
+                    MAIN, 03 EG2124A  (370.84, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB15 
+                    MAIN, 03 EG2124A  (292.10, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD5 
+                    MAIN, 03 EG2124A  (370.84, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD3 
+                    MAIN, 03 EG2124A  (370.84, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE2 
+                    MAIN, 03 EG2124A  (332.74, 218.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA12 
+                    MAIN, 03 EG2124A  (370.84, 238.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD2 
+                    MAIN, 03 EG2124A  (332.74, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE1 
+                    MAIN, 03 EG2124A  (370.84, 218.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD10 
+                    MAIN, 03 EG2124A  (254.00, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE15 
+                    MAIN, 03 EG2124A  (254.00, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD11 
+                    MAIN, 03 EG2124A  (292.10, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD9 
+                    MAIN, 03 EG2124A  (292.10, 238.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC9 
+                    MAIN, 03 EG2124A  (332.74, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC12 
+                    MAIN, 03 EG2124A  (370.84, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE7 
+                    MAIN, 03 EG2124A  (254.00, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD13 
+                    MAIN, 03 EG2124A  (292.10, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA15 
+                    MAIN, 03 EG2124A  (332.74, 238.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC13 
+                    MAIN, 03 EG2124A  (370.84, 213.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE0 
+                    MAIN, 03 EG2124A  (332.74, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE14 
+                    MAIN, 03 EG2124A  (292.10, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB9 
+                    MAIN, 03 EG2124A  (370.84, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA11 
+                    MAIN, 03 EG2124A  (332.74, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD8 
+                    MAIN, 03 EG2124A  (254.00, 238.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC6 
+                    MAIN, 03 EG2124A  (370.84, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD4 
+                    MAIN, 03 EG2124A  (332.74, 228.60) 
+
+Checking For Unconnected Bus Nets

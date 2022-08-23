@@ -1,0 +1,36 @@
+{ Using PSTWRITER 17.2.0 d001Aug-19-2022 at 09:59:55 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "MH7.1" ignored for MH7: MAIN, 03 EG2124A (106.68, 195.58). Connecting pin to net "MOTOR_W".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "MH6.1" ignored for MH6: MAIN, 03 EG2124A (106.68, 139.70). Connecting pin to net "MOTOR_V".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MH5.1" ignored for MH5: MAIN, 03 EG2124A (106.68, 83.82). Connecting pin to net "MOTOR_U".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "DC1.2" ignored for DC1: MAIN, 03 EG2124A (175.26, 43.18). Connecting pin to net "GND".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 03 EG2124A (248.92, 256.54). Connecting pin to net "GND".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 03 EG2124A (269.24, 256.54). Connecting pin to net "GND".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 03 EG2124A (269.24, 274.32). Connecting pin to net "GND".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.11" ignored for U2: MAIN, 03 EG2124A (314.96, 129.54). Connecting pin to net "N17294151".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.9" ignored for U2: MAIN, 03 EG2124A (314.96, 129.54). Connecting pin to net "N17294145".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.13" ignored for U2: MAIN, 03 EG2124A (314.96, 129.54). Connecting pin to net "N17294165".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.4" ignored for U5: MAIN, 03 EG2124A (271.78, 73.66). Connecting pin to net "N17315385".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.4" ignored for U9: MAIN, 03 EG2124A (358.14, 73.66). Connecting pin to net "N17315397".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.12" ignored for U2: MAIN, 03 EG2124A (314.96, 129.54). Connecting pin to net "HALL_H1".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.10" ignored for U2: MAIN, 03 EG2124A (314.96, 129.54). Connecting pin to net "HALL_H2".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.8" ignored for U2: MAIN, 03 EG2124A (314.96, 129.54). Connecting pin to net "HALL_H3".
+#16 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-3R0-8X12_100UF_50V" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#17 WARNING(ORCAP-36006): Part Name "DIODE13_9_SOD523_LRB521S-40T1G/NI" is renamed to "DIODE13_9_SOD523_LRB521S-40T1G/".
+#18 WARNING(ORCAP-36006): Part Name "CONN RCPT 15X2_CN2X15-2P54-Z_CN2X15-2P54-Z" is renamed to "CONN RCPT 15X2_CN2X15-2P54-Z_CN".
+#19 WARNING(ORCAP-36006): Part Name "HX30002-10A_1_HX42003-8WAF_HX42003-8WAF" is renamed to "HX30002-10A_1_HX42003-8WAF_HX42".
+#20 WARNING(ORCAP-36006): Part Name "CONN RCPT 8_CN1X8-2P54-Z_CN1X8-2P54-Z" is renamed to "CONN RCPT 8_CN1X8-2P54-Z_CN1X8-".
+#21 WARNING(ORCAP-36006): Part Name "SN74LVC14APW_TSSOP14_SN74LVC14APW" is renamed to "SN74LVC14APW_TSSOP14_SN74LVC14A".
+#22 WARNING(ORCAP-36006): Part Name "INA199A2DCKR_SOT363_INA199A2DCKR" is renamed to "INA199A2DCKR_SOT363_INA199A2DCK".
+#23 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-ADJ" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#24 WARNING(ORCAP-36006): Part Name "TPS54340DDAR_SOIC8-3R10X2R40_TPS54340DDAR" is renamed to "TPS54340DDAR_SOIC8-3R10X2R40_TP".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\github\MotorDriver\HARDWARE\EG2124A_V10_220802\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\EG2124A_V10_220802\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\EG2124A_V10_220802\SCH\allegro/pstchip.dat
+
+Loading... G:\github\MotorDriver\HARDWARE\EG2124A_V10_220802\SCH\allegro/pstxnet.dat
+packaging the design view...

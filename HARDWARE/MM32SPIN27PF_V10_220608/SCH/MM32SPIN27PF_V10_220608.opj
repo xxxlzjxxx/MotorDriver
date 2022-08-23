@@ -223,11 +223,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\mm32spin27pf_v10_220608.dsn")
-      (Path "Design Resources" ".\mm32spin27pf_v10_220608.dsn" "MAIN")
+      (Path "Design Resources"
+         "g:\github\motordriver\hardware\mm32spin27pf_v10_220608\sch\mm32spin27pf_v10_220608.dsn")
+      (Path "Design Resources"
+         "g:\github\motordriver\hardware\mm32spin27pf_v10_220608\sch\mm32spin27pf_v10_220608.dsn"
+         "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\mm32spin27pf_v10_220608.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -237,9 +240,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1329 52 671")
-        (Scroll "-185 -9")
-        (Zoom "74")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1125 52 671")
+        (Scroll "2895 0")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\MM32SPIN27PF_V10_220608\SCH\MM32SPIN27PF_V10_220608.DSN")
@@ -248,9 +251,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1511 234 853")
-        (Scroll "596 0")
-        (Zoom "148")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1151 78 697")
+        (Scroll "-57 -9")
+        (Zoom "74")
         (Occurrence "/"))
       (Path
          "G:\GITHUB\MOTORDRIVER\HARDWARE\MM32SPIN27PF_V10_220608\SCH\MM32SPIN27PF_V10_220608.DSN")
