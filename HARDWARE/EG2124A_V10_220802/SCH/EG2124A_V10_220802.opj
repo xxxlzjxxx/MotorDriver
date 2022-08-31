@@ -15,7 +15,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\github\MotorDriver\HARDWARE\DRV8313_V10_220621\SCH\DRV8313_V10_220621.BOM")
+       "G:\github\MotorDriver\HARDWARE\EG2124A_V10_220802\SCH\EG2124A_V10_220802.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
@@ -117,7 +117,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\eg2124a_v10_220802.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (ME2135A50M6G
@@ -225,7 +227,7 @@
       (Path "Design Resources")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\eg2124a_v10_220802.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -236,7 +238,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1404 26 535")
-        (Scroll "596 0")
+        (Scroll "696 120")
         (Zoom "148")
         (Occurrence "/"))
       (Path
