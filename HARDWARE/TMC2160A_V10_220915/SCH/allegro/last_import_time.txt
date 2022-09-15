@@ -1,0 +1,5 @@
+2022-09-15T14:26:34 ===> "G:/github/MotorDriver/HARDWARE/TMC2160A_V10_220915/SCH/allegro/pxlBA.txt"
+2022-09-15T14:26:41 ===> "G:/github/MotorDriver/HARDWARE/TMC2160A_V10_220915/SCH/allegro/pstchip.dat"
+2022-09-15T14:26:41 ===> "G:/github/MotorDriver/HARDWARE/TMC2160A_V10_220915/SCH/allegro/pstxnet.dat"
+2022-09-15T14:26:41 ===> "G:/github/MotorDriver/HARDWARE/TMC2160A_V10_220915/SCH/allegro/pstxprt.dat"
+2022-09-15T14:26:41 ===> "G:/github/MotorDriver/HARDWARE/TMC2160A_V10_220915/SCH/allegro/pstdmlmodels.dat"

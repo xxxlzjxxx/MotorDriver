@@ -1,0 +1,92 @@
+Date and Time : 09/15/22 14:23:07
+
+--------------------------------------------------
+Checking Schematic: MAIN
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections PB1 
+                    MAIN, 03 TMC2160A  (292.10, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE1 
+                    MAIN, 03 TMC2160A  (408.94, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE4 
+                    MAIN, 03 TMC2160A  (370.84, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD3 
+                    MAIN, 03 TMC2160A  (408.94, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB14 
+                    MAIN, 03 TMC2160A  (292.10, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB10 
+                    MAIN, 03 TMC2160A  (330.20, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA15 
+                    MAIN, 03 TMC2160A  (370.84, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD8 
+                    MAIN, 03 TMC2160A  (292.10, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE11 
+                    MAIN, 03 TMC2160A  (292.10, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD4 
+                    MAIN, 03 TMC2160A  (370.84, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB2 
+                    MAIN, 03 TMC2160A  (330.20, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE2/SPI0_CS 
+                    MAIN, 03 TMC2160A  (370.84, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC13 
+                    MAIN, 03 TMC2160A  (408.94, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA5 
+                    MAIN, 03 TMC2160A  (330.20, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD9 
+                    MAIN, 03 TMC2160A  (330.20, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE8 
+                    MAIN, 03 TMC2160A  (330.20, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC10 
+                    MAIN, 03 TMC2160A  (408.94, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA0 
+                    MAIN, 03 TMC2160A  (292.10, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB9 
+                    MAIN, 03 TMC2160A  (408.94, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD7 
+                    MAIN, 03 TMC2160A  (408.94, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB0 
+                    MAIN, 03 TMC2160A  (330.20, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE0 
+                    MAIN, 03 TMC2160A  (370.84, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE9 
+                    MAIN, 03 TMC2160A  (292.10, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE10 
+                    MAIN, 03 TMC2160A  (330.20, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE7 
+                    MAIN, 03 TMC2160A  (292.10, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA4 
+                    MAIN, 03 TMC2160A  (292.10, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE12 
+                    MAIN, 03 TMC2160A  (330.20, 236.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD2 
+                    MAIN, 03 TMC2160A  (370.84, 238.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA3 
+                    MAIN, 03 TMC2160A  (330.20, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA12 
+                    MAIN, 03 TMC2160A  (408.94, 246.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD0 
+                    MAIN, 03 TMC2160A  (370.84, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC11 
+                    MAIN, 03 TMC2160A  (370.84, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA6 
+                    MAIN, 03 TMC2160A  (292.10, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD6 
+                    MAIN, 03 TMC2160A  (370.84, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD5 
+                    MAIN, 03 TMC2160A  (408.94, 233.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC12 
+                    MAIN, 03 TMC2160A  (408.94, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB15 
+                    MAIN, 03 TMC2160A  (330.20, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC0 
+                    MAIN, 03 TMC2160A  (370.84, 220.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB8 
+                    MAIN, 03 TMC2160A  (370.84, 231.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections PE3 
+                    MAIN, 03 TMC2160A  (408.94, 223.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections PD1 
+                    MAIN, 03 TMC2160A  (408.94, 238.76) 
+
+Checking For Unconnected Bus Nets

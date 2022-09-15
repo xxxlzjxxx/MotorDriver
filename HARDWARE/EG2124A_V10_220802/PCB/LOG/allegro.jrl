@@ -1,0 +1,63 @@
+\t (00:00:01) allegro 17.2 S079 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Sep 01 15:17:52 2022
+\t (00:00:01)         Host=XXXLZJXXX User=Administrator Pid=11180 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe G:\github\MotorDriver\HARDWARE\EG2124A_V10_220802\PCB\EG2124A_V10_220802.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: G:/github/MotorDriver/HARDWARE/EG2124A_V10_220802/PCB/EG2124A_V10_220802.brd
+\i (00:00:02) trapsize 8436
+\i (00:00:02) trapsize 8675
+\i (00:00:02) trapsize 8760
+\i (00:00:02) trapsize 7763
+\i (00:00:02) trapsize 7763
+\i (00:00:02) generaledit 
+\i (00:00:04) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:00:05) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 25.8422 51.7108
+\i (00:00:06) trapsize 3882
+\t (00:00:07) Begin Load EDA365 Skill...
+\t (00:00:07) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:07) >>菜单快捷键CTRL+E
+\i (00:00:07) setwindow form.find
+\i (00:00:07) FORM find all_off  
+\i (00:00:08) FORM find nets YES 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 34.3043 51.1674
+\i (00:00:09) trapsize 1941
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 34.3043 51.1674
+\i (00:00:09) trapsize 970
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 31.6842 48.8773
+\i (00:00:10) trapsize 485
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 32.5770 47.9360
+\i (00:00:10) trapsize 243
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 32.5770 47.9360
+\i (00:00:10) trapsize 121
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 31.9220 48.0355
+\i (00:00:11) trapsize 243
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 31.9219 48.0354
+\i (00:00:11) trapsize 485
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 31.9511 48.0160
+\i (00:00:11) trapsize 970
+\i (00:00:39) exit 
+\e (00:00:39) Do you want to save the changes you made to EG2124A_V10_220802.brd?
+\i (00:00:40) fillin no 
+\t (00:00:41)     Journal end - Thu Sep 01 15:18:32 2022
