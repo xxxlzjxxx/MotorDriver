@@ -1,0 +1,48 @@
+{ Using PSTWRITER 25.1.0 d001Nov-20-2026 at 18:17:02 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.21" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO13/TFT_RST".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.4" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO4/H_DIAG0".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.5" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO5/H_DIAG1".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.6" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO6/H_STEP".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.7" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO7/H_DIR".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.15" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO3/H_DRVEN".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.16" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO46/V_DRVEN".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.24" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO47/V_STEP".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.25" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO48/V_DIAG1".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.26" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO45/V_DIAG0".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.4" ignored for U4: MAIN, 03 MCU (119.38, 266.70). Connecting pin to net "N18180755".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.27" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO0/BOOT".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.38" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO2/BEEP".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.39" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO1/LED".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 04 MOTOR (370.84, 243.84). Connecting pin to net "GND".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 04 MOTOR (393.70, 243.84). Connecting pin to net "GND".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "MH3.1" ignored for MH3: MAIN, 04 MOTOR (393.70, 256.54). Connecting pin to net "GND".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.8" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO15/T_INT".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.9" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO16/T_RST".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.35" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO42/SPI_MISO".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.34" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO41/SPI_MOSI".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.33" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO40/SPI_SCK".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.32" ignored for U5: MAIN, 03 MCU (55.88, 20.32). Connecting pin to net "GPIO40/V_CS".
+#24 WARNING(ORCAP-36006): Part Name "CAP POL_7_CAP-6R3X7R7-SMD_SVZ1VM101E09E00RAXXX" is renamed to "CAP POL_7_CAP-6R3X7R7-SMD_SVZ1V".
+#25 WARNING(ORCAP-36006): Part Name "TYPE-C_16P_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_16P_TYPE-C-31-M-12_TYPE-".
+#26 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_KF2EDGR-3R81-4P_KF2EDGR-3.81-4P" is renamed to "CONN RCPT 4_KF2EDGR-3R81-4P_KF2".
+#27 WARNING(ORCAP-36006): Part Name "FPC-05FB-40PH20_FPC-05FB-40PH20_FPC-05FB-40PH20" is renamed to "FPC-05FB-40PH20_FPC-05FB-40PH20".
+#28 WARNING(ORCAP-36006): Part Name "FPC-05FB-8PH20_FPC-05FB-8PH20_FPC-05FB-8PH20" is renamed to "FPC-05FB-8PH20_FPC-05FB-8PH20_F".
+#29 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_2_DFN3X3_HSBB6054" is renamed to "SI4497DY-T1-GE3_2_DFN3X3_HSBB60".
+#30 WARNING(ORCAP-36006): Part Name "R_GENERIC_R2512_HOJLR2512-3W-10MR-1%" is renamed to "R_GENERIC_R2512_HOJLR2512-3W-10".
+#31 WARNING(ORCAP-36006): Part Name "R_GENERIC_R2512_HOJLR2512-3W-50MR-1%" is renamed to "R_GENERIC_R2512_HOJLR2512-3W-50".
+#32 WARNING(ORCAP-36006): Part Name "SW PUSHBUTTON_2_TS3425BA_TS3425BA" is renamed to "SW PUSHBUTTON_2_TS3425BA_TS3425".
+#33 WARNING(ORCAP-36006): Part Name "TPD4E1U06DBVR_SOT363_TPD4E1U06DCKR" is renamed to "TPD4E1U06DBVR_SOT363_TPD4E1U06D".
+#34 WARNING(ORCAP-36006): Part Name "INA226AIDGSR_VSSOP10_INA226AIDGSR" is renamed to "INA226AIDGSR_VSSOP10_INA226AIDG".
+#35 WARNING(ORCAP-36006): Part Name "ESP32-S3-WROOM-1-N8R2_ESP32-S3-WROOM-1-N8R2_ESP32-S3-WROOM-1-N8R2" is renamed to "ESP32-S3-WROOM-1-N8R2_ESP32-S3-".
+#36 WARNING(ORCAP-36006): Part Name "TMC2160A-TA_0_TQFP48-9X9X0R5-5R0X5R0_TMC2160A-TA" is renamed to "TMC2160A-TA_0_TQFP48-9X9X0R5-5R".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstchip.dat
+
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstchip.dat
+
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstxprt.dat
+
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstxnet.dat
+packaging the design view...

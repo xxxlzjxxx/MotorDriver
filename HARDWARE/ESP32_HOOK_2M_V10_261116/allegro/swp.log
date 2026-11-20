@@ -1,0 +1,11 @@
+Loading netlist files ...
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstchip.dat
+
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstxprt.dat
+
+Loading... D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\allegro\pstxnet.dat
+packaging the design view...Loading... ./funcview.dat
+Loading... ./compview.dat
+Loading... ./netview.dat
+Loading... ./pinview.dat
+packaging the design view...

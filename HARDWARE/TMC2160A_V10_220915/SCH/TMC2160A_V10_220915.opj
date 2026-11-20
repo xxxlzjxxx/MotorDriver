@@ -1,5 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S040 (4438746)  [5/24/2026]-[09/15/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -105,7 +106,9 @@
     (Backannotation_TAB "1")
     (File ".\tmc2160a_v10_220915.dsn"
       (Type "Schematic Design"))
-    (Board_sim_option "VHDL_flow"))
+    (Board_sim_option "VHDL_flow")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
   (Folder "Outputs"
     (File ".\tmc2160a_v10_220915.drc"
       (Type "Report"))
@@ -221,34 +224,33 @@
       (FullPartName "ADM8614Y263ACBZ-R7.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "Administrator")
+  (MPSSessionName "XXXLZJXXX-YF")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "G:\github\MotorDriver\HARDWARE\TMC2160A_V10_220915\SCH\tmc2160a_v10_220915.dsn")
+         "D:\github\MotorDriver\HARDWARE\TMC2160A_V10_220915\SCH\tmc2160a_v10_220915.dsn")
       (Path "Design Resources"
-         "G:\github\MotorDriver\HARDWARE\TMC2160A_V10_220915\SCH\tmc2160a_v10_220915.dsn"
+         "D:\github\MotorDriver\HARDWARE\TMC2160A_V10_220915\SCH\tmc2160a_v10_220915.dsn"
          "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
       (Select "Design Resources"
-         "G:\github\MotorDriver\HARDWARE\TMC2160A_V10_220915\SCH\tmc2160a_v10_220915.dsn"))
+         "D:\github\MotorDriver\HARDWARE\TMC2160A_V10_220915\SCH\tmc2160a_v10_220915.dsn"
+         "MAIN" "03 TMC2160A"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1408 78 697")
-        (Scroll "0 809")
-        (Zoom "148")
-        (Occurrence "/"))
-      (Path
-         "G:\GITHUB\MOTORDRIVER\HARDWARE\TMC2160A_V10_220915\SCH\TMC2160A_V10_220915.DSN")
-      (Schematic "MAIN")
-      (Page "03 TMC2160A")))
-  (ISPCBBASICLICENSE "false"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 284 0 887"))
+      (Tab 0)))
+  (ISPCBBASICLICENSE "false")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))

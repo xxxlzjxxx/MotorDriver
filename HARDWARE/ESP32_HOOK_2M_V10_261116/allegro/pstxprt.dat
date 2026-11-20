@@ -1,0 +1,3188 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 25.1.0 d001Nov-20-2026 at 18:17:02 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ESP32_HOOK_2M_V10_261116';
+ POST_TIME='May 24 2026 22:15:53';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B1 'MLT-5020_MLT-5020_MLT-5020':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18228724@MODULE.MLT-5020.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18228724@module.\mlt-5020.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18228724@module.\mlt-5020.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,240)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,240,910,280)',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181189@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181189@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181189@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,1010)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,1010,230,1020)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181479@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181479@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181479@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1320,100,1340,110)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183803@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183803@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183803@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,90)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(360,90,380,100)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181354@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181354@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181354@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,100)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(190,100,210,110)',
+ SECTION='';
+
+PART_NAME
+ C167 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18216944@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18216944@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18216944@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,250,310,260)',
+ SECTION='';
+
+PART_NAME
+ C168 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18217979@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18217979@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18217979@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,250,680,260)',
+ SECTION='';
+
+PART_NAME
+ C169 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18218285@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18218285@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18218285@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,410)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,410,680,420)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181570@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181570@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181570@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,80)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,80,690,90)',
+ SECTION='';
+
+PART_NAME
+ C170 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223132@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223132@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223132@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,120)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,120,480,140)',
+ SECTION='';
+
+PART_NAME
+ C171 'CAP POL_7_CAP-6R3X7R7-SMD_SVZ1V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223199@U575_V10_251216.CAP POL_7.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223199@u575_v10_251216.\cap pol_7.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223199@u575_v10_251216.\cap pol_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,360,850,380)',
+ SECTION='';
+
+PART_NAME
+ C172 'CAP POL_7_CAP-6R3X7R7-SMD_SVZ1V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223326@U575_V10_251216.CAP POL_7.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223326@u575_v10_251216.\cap pol_7.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223326@u575_v10_251216.\cap pol_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,520)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,520,850,540)',
+ SECTION='';
+
+PART_NAME
+ C173 'CAP POL_7_CAP-6R3X7R7-SMD_SVZ1V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223394@U575_V10_251216.CAP POL_7.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223394@u575_v10_251216.\cap pol_7.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223394@u575_v10_251216.\cap pol_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,520)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,520,580,540)',
+ SECTION='';
+
+PART_NAME
+ C174 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223649@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223649@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223649@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,730)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,730,310,740)',
+ SECTION='';
+
+PART_NAME
+ C175 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223687@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223687@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223687@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,730)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,730,350,740)',
+ SECTION='';
+
+PART_NAME
+ C176 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223713@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223713@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223713@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,730)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,730,390,740)',
+ SECTION='';
+
+PART_NAME
+ C177 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225014@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225014@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225014@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,770)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(600,770,620,780)',
+ SECTION='';
+
+PART_NAME
+ C178 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225057@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225057@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225057@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,770)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,770,660,780)',
+ SECTION='';
+
+PART_NAME
+ C179 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225099@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225099@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225099@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,770)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,770,700,780)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181273@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181273@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181273@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,230)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,230,690,240)',
+ SECTION='';
+
+PART_NAME
+ C180 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225305@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225305@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225305@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,770)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,770,740,780)',
+ SECTION='';
+
+PART_NAME
+ C181 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225834@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225834@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225834@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,890)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(500,890,510,910)',
+ SECTION='';
+
+PART_NAME
+ C182 'CAP NP_3_C0402_33PF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225858@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225858@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225858@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,900)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,900,660,910)',
+ SECTION='';
+
+PART_NAME
+ C183 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225873@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225873@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225873@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,910)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,910,310,920)',
+ SECTION='';
+
+PART_NAME
+ C184 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225881@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225881@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225881@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,910)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,910,350,920)',
+ SECTION='';
+
+PART_NAME
+ C185 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225889@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225889@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225889@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,910)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,910,390,920)',
+ SECTION='';
+
+PART_NAME
+ C186 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225949@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225949@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225949@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(600,950,620,960)',
+ SECTION='';
+
+PART_NAME
+ C187 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225957@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225957@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225957@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,950,660,960)',
+ SECTION='';
+
+PART_NAME
+ C188 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225965@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225965@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225965@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,950,700,960)',
+ SECTION='';
+
+PART_NAME
+ C189 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225973@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225973@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225973@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,950,740,960)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183787@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183787@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183787@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(240,90,260,100)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181748@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181748@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181748@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,1090)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,1090,230,1100)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_3_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183795@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183795@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183795@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,90,340,100)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183811@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183811@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183811@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,90)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(490,90,510,100)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_3_C0402_22NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183867@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183867@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183867@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,130)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(400,130,410,150)',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184030@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184030@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184030@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,160)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,160,590,180)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184052@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184052@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184052@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,170)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,170,250,180)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184139@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184139@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184139@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,190,590,210)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184378@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184378@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184378@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,310)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,310,590,330)',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184525@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184525@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184525@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,340,590,360)',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184745@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184745@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184745@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,450,270,460)',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186574@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186574@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186574@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,600)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(360,600,380,610)',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_3_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186566@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186566@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186566@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,600,340,610)',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186558@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186558@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186558@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(240,600,260,610)',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186582@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186582@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186582@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,600)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(490,600,510,610)',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_3_C0402_22NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186638@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186638@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186638@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,640)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(400,640,410,660)',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186646@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186646@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186646@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,640)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,640,480,660)',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186801@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186801@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186801@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,670)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,670,590,690)',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186823@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186823@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186823@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,680)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,680,250,690)',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186910@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186910@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186910@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,700)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,700,590,720)',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187149@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187149@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187149@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,820)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,820,590,840)',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_3_C0603_220NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187296@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187296@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187296@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,850,590,870)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183875@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183875@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183875@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,130)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,130,480,150)',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187504@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187504@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187504@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,960)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,960,270,970)',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195784@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195784@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195784@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,90,930,100)',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196129@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196129@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196129@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(950,90,970,100)',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196439@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196439@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196439@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1190,90,1210,100)',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196447@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196447@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196447@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,90,1250,100)',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196823@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196823@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196823@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,320,930,330)',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196831@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196831@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196831@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(950,320,970,330)',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196903@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196903@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196903@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1190,320,1210,330)',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18196911@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18196911@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18196911@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,320,1250,330)',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18197304@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18197304@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18197304@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,560,930,570)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181365@RK_DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181365@rk_discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181365@rk_discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,950)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(600,950,620,960)',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18197312@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18197312@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18197312@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(950,560,970,570)',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18197437@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18197437@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18197437@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1190,560,1210,570)',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18197445@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18197445@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18197445@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,560,1250,570)',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18197847@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18197847@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18197847@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,790)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,790,930,800)',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18197855@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18197855@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18197855@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(950,790)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(950,790,970,800)',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18198220@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18198220@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18198220@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,790)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1190,790,1210,800)',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_3_C0805_2.2UF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18198228@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18198228@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18198228@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,790)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,790,1250,800)',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18207532@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18207532@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18207532@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,100)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1360,100,1380,110)',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP NP_2_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18211691@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18211691@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18211691@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1370,630)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1370,630,1390,640)',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18213462@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18213462@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18213462@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,100,170,110)',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18213629@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18213629@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18213629@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(110,100,130,110)',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP NP_3_C0402_100NF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224148@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224148@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224148@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,710)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(500,710,510,730)',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP NP_3_C0402_33PF_50V':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224134@MK60_ZCYT_V11A.CAP NP_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224134@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224134@mk60_zcyt_v11a.\cap np_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,720)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,720,660,730)',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181035@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181035@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181035@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,80)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,80,850,120)',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181343@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181343@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181343@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,950,220,970)',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_4_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18180970@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18180970@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18180970@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,910)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,910,220,930)',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE13_7_SOD323_B0520WS':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181000@MK60_YTAI_V41B.DIODE13_7.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181000@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181000@mk60_ytai_v41b.\diode13_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,1110)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(270,1110,280,1130)',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_3_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184613@HY_HWYT_3S24_V11_211106.LED_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184613@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184613@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,380)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,380,270,400)',
+ SECTION='';
+
+PART_NAME
+ D54 'TVS_0_DO-214AB_SMCJ28A':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18222501@1126_GWAY_V10_260803.TVS_0.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18222501@\1126_gway_v10_260803\.\tvs_0.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18222501@\1126_gway_v10_260803\.\tvs_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,120)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,120,390,130)',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_3_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184625@HY_HWYT_3S24_V11_211106.LED_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184625@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184625@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,380)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,380,300,400)',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_3_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187384@HY_HWYT_3S24_V11_211106.LED_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187384@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187384@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,890)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,890,270,910)',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_3_LED0603_GREEN-0603':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187396@HY_HWYT_3S24_V11_211106.LED_3.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187396@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187396@hy_hwyt_3s24_v11_211106.\led_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,890)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,890,300,910)',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE0805_SMD0805-050-6':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181098@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181098@hyoc.\fuse.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181098@hyoc.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,970)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(490,970,520,990)',
+ SECTION='';
+
+PART_NAME
+ F11 'FUSE_FUSE1812_1812L300/30GR':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18222475@HYOC.FUSE.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18222475@hyoc.\fuse.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18222475@hyoc.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,90,360,110)',
+ SECTION='';
+
+PART_NAME
+ J3 'TYPE-C_16P_TYPE-C-31-M-12_TYPE-':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181612@CONNECT.TYPE-C_16P.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181612@connect.\type-c_16p.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181612@connect.\type-c_16p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(660,950,750,1090)',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN RCPT 4_KF2EDGR-3R81-4P_KF2':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184204@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184204@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184204@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1470,100,1490,150)',
+ SECTION='';
+
+PART_NAME
+ J5 'CONN RCPT 4_KF2EDGR-3R81-4P_KF2':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186975@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186975@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186975@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,680)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1450,680,1470,730)',
+ SECTION='';
+
+PART_NAME
+ J6 'FPC-05FB-40PH20_FPC-05FB-40PH20':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18199662@MODULE.FPC-05FB-40PH20.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18199662@module.\fpc-05fb-40ph20.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18199662@module.\fpc-05fb-40ph20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,70)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,70,1450,480)',
+ SECTION='';
+
+PART_NAME
+ J7 'FPC-05FB-8PH20_FPC-05FB-8PH20_F':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18199723@MODULE.FPC-05FB-8PH20.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18199723@module.\fpc-05fb-8ph20.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18199723@module.\fpc-05fb-8ph20.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,650)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,650,1450,740)',
+ SECTION='';
+
+PART_NAME
+ J8 'CONN RCPT 4_KF2EDGR-3R81-4P_KF2':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18222227@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18222227@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18222227@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,90,170,140)',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_0_L0420_FXL0420-4R7-M':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224160@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224160@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224160@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,740)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,740,590,760)',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_0_L0420_FXL0420-4R7-M':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225897@DAMP_V10A.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225897@damp_v10a.\inductor_0.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225897@damp_v10a.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,920)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,920,590,940)',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLD_1_HOLE6R90X3R10_HOLE-M3/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18139928@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18139928@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18139928@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,1010)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1460,1010,1521,1060)',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLD_1_HOLE6R90X3R10_HOLE-M3/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18139921@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18139921@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18139921@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1550,960)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1550,960,1611,1010)',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLD_1_HOLE6R90X3R10_HOLE-M3/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18139935@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18139935@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18139935@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1550,1010)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1550,1010,1611,1060)',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLD_1_HOLE6R90X3R10_HOLE-M3/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18139914@BCM95398R8G_WS_951219.HOLD_1.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18139914@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18139914@bcm95398r8g_ws_951219.\hold_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,960)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1460,960,1521,1010)',
+ SECTION='';
+
+PART_NAME
+ MP1 'MARKPOINT_MARKPOINT_R3_MP/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18180225@MODULE.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18180225@module.\markpoint.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18180225@module.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,890)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1470,890,1500,930)',
+ SECTION='';
+
+PART_NAME
+ MP2 'MARKPOINT_MARKPOINT_R3_MP/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18180232@MODULE.MARKPOINT.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18180232@module.\markpoint.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18180232@module.\markpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1560,890)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1560,890,1590,930)',
+ SECTION='';
+
+PART_NAME
+ Q1 'DTC043ZMT2L_SOT723_DTC043ZMT2L':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181523@HYOC.DTC043ZMT2L.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181523@hyoc.\dtc043zmt2l.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181523@hyoc.\dtc043zmt2l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,140)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,140,840,160)',
+ SECTION='';
+
+PART_NAME
+ Q12 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18188038@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18188038@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18188038@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,60)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,60,890,110)',
+ SECTION='';
+
+PART_NAME
+ Q13 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18188057@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18188057@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18188057@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,130,890,180)',
+ SECTION='';
+
+PART_NAME
+ Q14 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18189239@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18189239@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18189239@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,60)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,60,1170,110)',
+ SECTION='';
+
+PART_NAME
+ Q15 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18189285@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18189285@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18189285@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,130,1170,180)',
+ SECTION='';
+
+PART_NAME
+ Q16 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190645@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190645@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190645@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,290,890,340)',
+ SECTION='';
+
+PART_NAME
+ Q17 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190660@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190660@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190660@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,290,1170,340)',
+ SECTION='';
+
+PART_NAME
+ Q18 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190737@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190737@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190737@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,360,890,410)',
+ SECTION='';
+
+PART_NAME
+ Q19 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190748@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190748@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190748@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,360,1170,410)',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOS-N_SOT23-3_2SK3018':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18180981@HYOC.MOS-N.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18180981@hyoc.\mos-n.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18180981@hyoc.\mos-n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,1030)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(250,1030,290,1060)',
+ SECTION='';
+
+PART_NAME
+ Q20 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194132@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194132@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194132@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,530,890,580)',
+ SECTION='';
+
+PART_NAME
+ Q21 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194147@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194147@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194147@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,530,1170,580)',
+ SECTION='';
+
+PART_NAME
+ Q22 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194224@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194224@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194224@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,600,890,650)',
+ SECTION='';
+
+PART_NAME
+ Q23 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194235@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194235@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194235@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,600)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,600,1170,650)',
+ SECTION='';
+
+PART_NAME
+ Q24 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195133@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195133@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195133@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,760)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,760,890,810)',
+ SECTION='';
+
+PART_NAME
+ Q25 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195148@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195148@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195148@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,760)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,760,1170,810)',
+ SECTION='';
+
+PART_NAME
+ Q26 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195225@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195225@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195225@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,830)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,830,890,880)',
+ SECTION='';
+
+PART_NAME
+ Q27 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195236@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195236@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195236@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,830)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,830,1170,880)',
+ SECTION='';
+
+PART_NAME
+ Q28 'MOS-N_SOT23-3_AO3400A':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18209603@HYOC.MOS-N.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18209603@hyoc.\mos-n.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18209603@hyoc.\mos-n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,480)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,480,1170,520)',
+ SECTION='';
+
+PART_NAME
+ Q29 'SI4497DY-T1-GE3_2_DFN3X3_HSBB60':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18222771@1126_GWAY_V10_260803.SI4497DY-T1-GE3_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18222771@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18222771@\1126_gway_v10_260803\.\si4497dy-t1-ge3_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,90,610,140)',
+ SECTION='';
+
+PART_NAME
+ Q31 'DTC043ZMT2L_SOT723_DTC043ZMT2L':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18228752@HYOC.DTC043ZMT2L.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18228752@hyoc.\dtc043zmt2l.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18228752@hyoc.\dtc043zmt2l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,310,840,330)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181662@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181662@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181662@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,1080)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,1080,330,1110)',
+ SECTION='';
+
+PART_NAME
+ R10 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181501@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181501@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181501@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,1070)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,1070,570,1100)',
+ SECTION='';
+
+PART_NAME
+ R100 'R_GENERIC_R0402_5.1K/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18203635@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18203635@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18203635@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,480)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,480,1310,510)',
+ SECTION='';
+
+PART_NAME
+ R101 'R_GENERIC_R0805_39R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18206265@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18206265@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18206265@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,450)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,450,1150,470)',
+ SECTION='';
+
+PART_NAME
+ R102 'R_GENERIC_R0805_39R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18206605@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18206605@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18206605@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,430)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,430,1150,450)',
+ SECTION='';
+
+PART_NAME
+ R103 'R_GENERIC_R0805_39R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18206625@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18206625@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18206625@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,410)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,410,1150,430)',
+ SECTION='';
+
+PART_NAME
+ R104 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18209178@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18209178@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18209178@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,730,1320,760)',
+ SECTION='';
+
+PART_NAME
+ R105 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18209191@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18209191@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18209191@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1320,730,1340,760)',
+ SECTION='';
+
+PART_NAME
+ R106 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18209204@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18209204@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18209204@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1340,730,1360,760)',
+ SECTION='';
+
+PART_NAME
+ R107 'R_GENERIC_R0805_1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18210177@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18210177@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18210177@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,500)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1080,500,1110,520)',
+ SECTION='';
+
+PART_NAME
+ R108 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18210215@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18210215@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18210215@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,520)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,520,1130,550)',
+ SECTION='';
+
+PART_NAME
+ R13 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184068@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184068@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184068@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,160)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,160,790,180)',
+ SECTION='';
+
+PART_NAME
+ R15 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181169@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181169@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181169@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,170)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,170,690,200)',
+ SECTION='';
+
+PART_NAME
+ R16 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183943@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183943@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183943@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,90)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,90,790,110)',
+ SECTION='';
+
+PART_NAME
+ R171 'R_GENERIC_R2512_HOJLR2512-3W-10':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18217041@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18217041@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18217041@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,340)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(260,340,290,360)',
+ SECTION='';
+
+PART_NAME
+ R178 'R_GENERIC_R2512_HOJLR2512-3W-10':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18218065@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18218065@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18218065@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,340)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,340,660,360)',
+ SECTION='';
+
+PART_NAME
+ R181 'R_GENERIC_R2512_HOJLR2512-3W-10':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18218371@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18218371@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18218371@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,500)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,500,660,520)',
+ SECTION='';
+
+PART_NAME
+ R182 'R_GENERIC_R0402_40.2K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224086@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224086@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224086@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,660,700,690)',
+ SECTION='';
+
+PART_NAME
+ R183 'R_GENERIC_R0402_20K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224098@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224098@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224098@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,660)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,660,390,690)',
+ SECTION='';
+
+PART_NAME
+ R184 'R_GENERIC_R0402_124K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224116@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224116@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224116@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,710)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,710,700,740)',
+ SECTION='';
+
+PART_NAME
+ R185 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18224124@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18224124@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18224124@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,690)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,690,360,710)',
+ SECTION='';
+
+PART_NAME
+ R186 'R_GENERIC_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225754@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225754@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225754@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,840)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(370,840,390,870)',
+ SECTION='';
+
+PART_NAME
+ R187 'R_GENERIC_R0402_40.2K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225762@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225762@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225762@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,840)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,840,700,870)',
+ SECTION='';
+
+PART_NAME
+ R188 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225770@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225770@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225770@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,870)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,870,360,890)',
+ SECTION='';
+
+PART_NAME
+ R189 'R_GENERIC_R0402_124K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225842@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225842@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225842@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,890)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,890,700,920)',
+ SECTION='';
+
+PART_NAME
+ R19 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184302@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184302@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184302@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,270)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,270,200,290)',
+ SECTION='';
+
+PART_NAME
+ R191 'R_GENERIC_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18228892@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18228892@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18228892@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,250)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,250,850,280)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181226@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181226@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181226@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,40)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(830,40,850,70)',
+ SECTION='';
+
+PART_NAME
+ R21 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184428@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184428@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184428@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,320)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,320,240,340)',
+ SECTION='';
+
+PART_NAME
+ R22 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184366@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184366@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184366@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,310)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,310,200,330)',
+ SECTION='';
+
+PART_NAME
+ R24 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184262@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184262@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184262@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,250)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,250,240,270)',
+ SECTION='';
+
+PART_NAME
+ R25 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184239@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184239@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184239@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,240)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,240,200,260)',
+ SECTION='';
+
+PART_NAME
+ R28 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184220@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184220@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184220@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,230)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,230,240,250)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181262@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181262@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181262@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,950)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(130,950,160,970)',
+ SECTION='';
+
+PART_NAME
+ R30 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184183@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184183@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184183@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,220)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,220,200,240)',
+ SECTION='';
+
+PART_NAME
+ R31 'R_GENERIC_R2512_HOJLR2512-3W-50':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184196@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184196@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184196@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,210)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,210,820,240)',
+ SECTION='';
+
+PART_NAME
+ R32 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184273@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184273@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184273@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,240)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,240,790,260)',
+ SECTION='';
+
+PART_NAME
+ R33 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184321@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184321@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184321@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,280)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,280,240,300)',
+ SECTION='';
+
+PART_NAME
+ R35 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184498@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184498@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184498@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,340)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,340,270,370)',
+ SECTION='';
+
+PART_NAME
+ R36 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184506@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184506@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184506@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,340)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,340,300,370)',
+ SECTION='';
+
+PART_NAME
+ R37 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184514@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184514@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184514@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,340,320,370)',
+ SECTION='';
+
+PART_NAME
+ R39 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184711@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184711@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184711@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,430,320,460)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181737@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181737@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181737@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,910)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(130,910,160,930)',
+ SECTION='';
+
+PART_NAME
+ R40 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187277@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187277@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187277@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,850,300,880)',
+ SECTION='';
+
+PART_NAME
+ R46 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187479@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187479@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187479@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,940)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,940,320,970)',
+ SECTION='';
+
+PART_NAME
+ R50 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187073@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187073@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187073@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,780)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,780,200,800)',
+ SECTION='';
+
+PART_NAME
+ R52 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187199@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187199@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187199@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,830)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,830,240,850)',
+ SECTION='';
+
+PART_NAME
+ R53 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187137@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187137@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187137@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,820)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,820,200,840)',
+ SECTION='';
+
+PART_NAME
+ R55 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187033@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187033@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187033@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,760)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,760,240,780)',
+ SECTION='';
+
+PART_NAME
+ R56 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187010@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187010@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187010@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,750)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,750,200,770)',
+ SECTION='';
+
+PART_NAME
+ R59 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186991@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186991@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186991@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,740)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,740,240,760)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18184161@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18184161@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18184161@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,190)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,190,790,210)',
+ SECTION='';
+
+PART_NAME
+ R61 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186954@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186954@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186954@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,730)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,730,200,750)',
+ SECTION='';
+
+PART_NAME
+ R63 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187092@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187092@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187092@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,790)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,790,240,810)',
+ SECTION='';
+
+PART_NAME
+ R65 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187269@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187269@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187269@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,850,270,880)',
+ SECTION='';
+
+PART_NAME
+ R66 'R_GENERIC_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187285@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187285@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187285@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,850)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,850,320,880)',
+ SECTION='';
+
+PART_NAME
+ R68 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187916@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187916@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187916@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,290)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,290,200,310)',
+ SECTION='';
+
+PART_NAME
+ R69 'R_GENERIC_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18187930@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18187930@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18187930@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,800)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,800,200,820)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181590@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181590@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181590@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,1070)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,1070,600,1100)',
+ SECTION='';
+
+PART_NAME
+ R70 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18189264@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18189264@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18189264@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,90)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,90,1080,110)',
+ SECTION='';
+
+PART_NAME
+ R71 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18189309@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18189309@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18189309@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,160)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,160,1080,180)',
+ SECTION='';
+
+PART_NAME
+ R72 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190695@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190695@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190695@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,320)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,320,790,340)',
+ SECTION='';
+
+PART_NAME
+ R73 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190707@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190707@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190707@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,320)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,320,1080,340)',
+ SECTION='';
+
+PART_NAME
+ R74 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190785@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190785@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190785@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,390)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,390,790,410)',
+ SECTION='';
+
+PART_NAME
+ R75 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190797@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190797@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190797@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,390)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,390,1080,410)',
+ SECTION='';
+
+PART_NAME
+ R76 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190819@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190819@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190819@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,420,790,440)',
+ SECTION='';
+
+PART_NAME
+ R77 'R_GENERIC_R2512_HOJLR2512-3W-50':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190836@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190836@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190836@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,440)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,440,820,470)',
+ SECTION='';
+
+PART_NAME
+ R78 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18190844@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18190844@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18190844@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,470)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,470,790,490)',
+ SECTION='';
+
+PART_NAME
+ R79 'R_GENERIC_R0603_2.2R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18192363@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18192363@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18192363@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,700)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(270,700,300,720)',
+ SECTION='';
+
+PART_NAME
+ R80 'R_GENERIC_R0603_2.2R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18192407@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18192407@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18192407@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,190)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,190,310,210)',
+ SECTION='';
+
+PART_NAME
+ R81 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194182@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194182@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194182@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,560)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,560,790,580)',
+ SECTION='';
+
+PART_NAME
+ R82 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194194@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194194@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194194@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,560)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,560,1080,580)',
+ SECTION='';
+
+PART_NAME
+ R83 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194272@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194272@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194272@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,630)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,630,790,650)',
+ SECTION='';
+
+PART_NAME
+ R84 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194284@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194284@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194284@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,630)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,630,1080,650)',
+ SECTION='';
+
+PART_NAME
+ R85 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194306@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194306@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194306@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,660)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,660,790,680)',
+ SECTION='';
+
+PART_NAME
+ R86 'R_GENERIC_R2512_HOJLR2512-3W-50':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194323@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194323@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194323@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,680)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,680,820,710)',
+ SECTION='';
+
+PART_NAME
+ R87 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18194331@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18194331@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18194331@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,710)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,710,790,730)',
+ SECTION='';
+
+PART_NAME
+ R88 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195183@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195183@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195183@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,790)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,790,790,810)',
+ SECTION='';
+
+PART_NAME
+ R89 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195195@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195195@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195195@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,790)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,790,1080,810)',
+ SECTION='';
+
+PART_NAME
+ R90 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195273@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195273@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195273@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,860)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,860,790,880)',
+ SECTION='';
+
+PART_NAME
+ R91 'R_GENERIC_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195285@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195285@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195285@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1050,860)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1050,860,1080,880)',
+ SECTION='';
+
+PART_NAME
+ R92 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195307@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195307@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195307@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,890)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,890,790,910)',
+ SECTION='';
+
+PART_NAME
+ R93 'R_GENERIC_R2512_HOJLR2512-3W-50':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195324@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195324@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195324@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,910)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,910,820,940)',
+ SECTION='';
+
+PART_NAME
+ R94 'R_GENERIC_R0402_49R9':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18195332@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18195332@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18195332@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,940)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,940,790,960)',
+ SECTION='';
+
+PART_NAME
+ R95 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18203570@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18203570@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18203570@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,410)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,410,1250,440)',
+ SECTION='';
+
+PART_NAME
+ R96 'R_GENERIC_R0402_5.1K/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18203583@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18203583@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18203583@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,480)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,480,1250,510)',
+ SECTION='';
+
+PART_NAME
+ R97 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18203601@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18203601@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18203601@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,410)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,410,1280,440)',
+ SECTION='';
+
+PART_NAME
+ R98 'R_GENERIC_R0402_5.1K/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18203609@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18203609@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18203609@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,480)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,480,1280,510)',
+ SECTION='';
+
+PART_NAME
+ R99 'R_GENERIC_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18203627@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18203627@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18203627@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,410)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1290,410,1310,440)',
+ SECTION='';
+
+PART_NAME
+ S1 'SW PUSHBUTTON_2_TS3425BA_TS3425':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181490@ESP32_HOOK_2M_V10_261116.SW PUSHBUTTON_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181490@esp32_hook_2m_v10_261116.\sw pushbutton_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181490@esp32_hook_2m_v10_261116.\sw pushbutton_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,50)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,50,740,80)',
+ SECTION='';
+
+PART_NAME
+ S2 'SW PUSHBUTTON_2_TS3425BA_TS3425':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18237839@ESP32_HOOK_2M_V10_261116.SW PUSHBUTTON_2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18237839@esp32_hook_2m_v10_261116.\sw pushbutton_2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18237839@esp32_hook_2m_v10_261116.\sw pushbutton_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,200)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,200,740,230)',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18217456@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18217456@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18217456@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,720)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,720,740,730)',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT_TP-0R75_TP/NI':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225866@XXXLZJXXX.TESTPOINT.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225866@xxxlzjxxx.\testpoint.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225866@xxxlzjxxx.\testpoint.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,900)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,900,740,910)',
+ SECTION='';
+
+PART_NAME
+ U2 'CH340E_MSOP10_CH340E':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181688@IC.CH340E.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181688@ic.\ch340e.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181688@ic.\ch340e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,1030)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(120,1030,200,1090)',
+ SECTION='';
+
+PART_NAME
+ U4 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181046@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181046@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181046@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,1050)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,1050,520,1090)',
+ SECTION='';
+
+PART_NAME
+ U47 'INA226AIDGSR_VSSOP10_INA226AIDG':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18216958@IC.INA226AIDGSR.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18216958@ic.\ina226aidgsr.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18216958@ic.\ina226aidgsr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,270)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(320,270,390,330)',
+ SECTION='';
+
+PART_NAME
+ U48 'INA226AIDGSR_VSSOP10_INA226AIDG':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18217993@IC.INA226AIDGSR.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18217993@ic.\ina226aidgsr.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18217993@ic.\ina226aidgsr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,270)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(690,270,760,330)',
+ SECTION='';
+
+PART_NAME
+ U49 'INA226AIDGSR_VSSOP10_INA226AIDG':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18218299@IC.INA226AIDGSR.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18218299@ic.\ina226aidgsr.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18218299@ic.\ina226aidgsr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,430)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(690,430,760,490)',
+ SECTION='';
+
+PART_NAME
+ U5 'ESP32-S3-WROOM-1-N8R2_ESP32-S3-':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18181390@HYOC.ESP32-S3-WROOM-1-N8R2.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18181390@hyoc.\esp32-s3-wroom-1-n8r2.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page3_ins18181390@hyoc.\esp32-s3-wroom-1-n8r2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,80)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(220,80,410,300)',
+ SECTION='';
+
+PART_NAME
+ U51 'MX74700T_SOT23-6_MX74700T':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18222608@IC.MX74700T.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18222608@ic.\mx74700t.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18222608@ic.\mx74700t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,150)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(440,150,520,190)',
+ SECTION='';
+
+PART_NAME
+ U52 'BL9342_SOT23-6_BL9342':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18223449@IC.BL9342.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18223449@ic.\bl9342.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18223449@ic.\bl9342.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,690)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,690,470,730)',
+ SECTION='';
+
+PART_NAME
+ U53 'BL9342_SOT23-6_BL9342':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18225780@IC.BL9342.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18225780@ic.\bl9342.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page5_ins18225780@ic.\bl9342.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,870)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,870,470,910)',
+ SECTION='';
+
+PART_NAME
+ U6 'TMC2160A-TA_0_TQFP48-9X9X0R5-5R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18183975@HY_LWYT_3S24_STEP_V11_211123.TMC2160A-TA_0.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18183975@hy_lwyt_3s24_step_v11_211123.\tmc2160a-ta_0.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18183975@hy_lwyt_3s24_step_v11_211123.\tmc2160a-ta_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,160)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,160,530,450)',
+ SECTION='';
+
+PART_NAME
+ U7 'TMC2160A-TA_0_TQFP48-9X9X0R5-5R':;
+
+SECTION_NUMBER 1
+ '@ESP32_HOOK_2M_V10_261116.MAIN(SCH_1):INS18186746@HY_LWYT_3S24_STEP_V11_211123.TMC2160A-TA_0.NORMAL(CHIPS)':
+ C_PATH='@esp32_hook_2m_v10_261116.main(sch_1):ins18186746@hy_lwyt_3s24_step_v11_211123.\tmc2160a-ta_0.normal\(chips)',
+ P_PATH='@esp32_hook_2m_v10_261116.main(sch_1):page4_ins18186746@hy_lwyt_3s24_step_v11_211123.\tmc2160a-ta_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(350,670,530,960)',
+ SECTION='';
+
+END.
