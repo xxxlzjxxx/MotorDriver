@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Nov-20-2026 at 18:17:02}
+{ Using PSTWRITER 25.1.0 d001Nov-23-2026 at 17:16:11}
 primitive 'MLT-5020_MLT-5020_MLT-5020';
   pin
     '1':
@@ -258,6 +258,27 @@ primitive 'FUSE_FUSE1812_1812L300/30GR';
     VALUE='1812L300/30GR';
   end_body;
 end_primitive;
+primitive 'CONN RCPT 4_KF2EDGV-3R5-4P_KF2E';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN RCPT 4';
+    JEDEC_TYPE='KF2EDGV-3R5-4P';
+    VALUE='KF2EDGV-3.5-4P';
+  end_body;
+end_primitive;
 primitive 'TYPE-C_16P_TYPE-C-31-M-12_TYPE-';
   pin
     'GND1':
@@ -315,7 +336,7 @@ primitive 'TYPE-C_16P_TYPE-C-31-M-12_TYPE-';
     VALUE='TYPE-C-31-M-12';
   end_body;
 end_primitive;
-primitive 'CONN RCPT 4_KF2EDGR-3R81-4P_KF2';
+primitive 'CONN RCPT 4_KF2EDGR-3R5-4P_KF2E';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -332,8 +353,8 @@ primitive 'CONN RCPT 4_KF2EDGR-3R81-4P_KF2';
   end_pin;
   body
     PART_NAME='CONN RCPT 4';
-    JEDEC_TYPE='KF2EDGR-3R81-4P';
-    VALUE='KF2EDGR-3.81-4P';
+    JEDEC_TYPE='KF2EDGR-3R5-4P';
+    VALUE='KF2EDGR-3.5-4P/NI';
   end_body;
 end_primitive;
 primitive 'FPC-05FB-40PH20_FPC-05FB-40PH20';
@@ -525,7 +546,7 @@ primitive 'INDUCTOR_0_L0420_FXL0420-4R7-M';
     VALUE='FXL0420-4R7-M';
   end_body;
 end_primitive;
-primitive 'HOLD_1_HOLE6R90X3R10_HOLE-M3/NI';
+primitive 'HOLD_1_HOLE6R90X4R20_HOLE-M3/NI';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -533,7 +554,7 @@ primitive 'HOLD_1_HOLE6R90X3R10_HOLE-M3/NI';
   end_pin;
   body
     PART_NAME='Hold_1';
-    JEDEC_TYPE='HOLE6R90X3R10';
+    JEDEC_TYPE='HOLE6R90X4R20';
     VALUE='HOLE-M3/NI';
   end_body;
 end_primitive;
@@ -699,21 +720,6 @@ primitive 'R_GENERIC_R0402_1K';
   body
     PART_NAME='R_Generic';
     JEDEC_TYPE='R0402';
-    VALUE='1K';
-  end_body;
-end_primitive;
-primitive 'R_GENERIC_R0805_1K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_Generic';
-    JEDEC_TYPE='R0805';
     VALUE='1K';
   end_body;
 end_primitive;

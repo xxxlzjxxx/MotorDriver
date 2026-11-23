@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S040 (4438746)  [5/24/2026]-[11/20/26]")
+  (SoftwareVersion "25.1 S040 (4438746)  [5/24/2026]-[11/23/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -88,7 +88,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\github\DebugTool\HARDWARE\HY_SP32_AIRQ_V10_260326\HY_SP32_AIRQ_V10_260326.BOM")
+       "D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\ESP32_HOOK_2M_V10_261116.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{ERPcode}\t{Reference}\t{Value}\t{PCB Footprint}")
@@ -124,7 +124,7 @@
     (DRC_Run_Custom_Rules "FALSE")
     (GATE_&_PIN_SWAP_Scope "0")
     (GATE_&_PIN_SWAP_File_Name
-       "G:\github\DebugTool\HARDWARE\HY_SP32_AIRQ_V10_260326\LOG\rename.SWP")
+       "D:\github\MotorDriver\HARDWARE\ESP32_HOOK_2M_V10_261116\rename.swp")
     (Backannotation_TAB "1")
     (File ".\esp32_hook_2m_v10_261116.dsn"
       (Type "Schematic Design"))
@@ -143,7 +143,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\esp32_hook_2m_v10_261116.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
@@ -151,19 +153,20 @@
       (Path "Design Resources" ".\esp32_hook_2m_v10_261116.dsn")
       (Path "Design Resources" ".\esp32_hook_2m_v10_261116.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\esp32_hook_2m_v10_261116.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 300 0 911"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 310 0 911"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 1574 28 933")
-        (Scroll "-162 -9")
-        (Zoom "74")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1564 28 933")
+        (Scroll "3248 1590")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "D:\GITHUB\MOTORDRIVER\HARDWARE\ESP32_HOOK_2M_V10_261116\ESP32_HOOK_2M_V10_261116.DSN")
@@ -172,25 +175,25 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 1574 28 933")
-        (Scroll "890 240")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1564 28 933")
+        (Scroll "0 0")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "D:\GITHUB\MOTORDRIVER\HARDWARE\ESP32_HOOK_2M_V10_261116\ESP32_HOOK_2M_V10_261116.DSN")
       (Schematic "MAIN")
-      (Page "03 MCU"))
+      (Page "05 POWER"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 1574 28 933")
-        (Scroll "0 0")
-        (Zoom "110")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1564 28 933")
+        (Scroll "1454 944")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "D:\GITHUB\MOTORDRIVER\HARDWARE\ESP32_HOOK_2M_V10_261116\ESP32_HOOK_2M_V10_261116.DSN")
       (Schematic "MAIN")
-      (Page "05 POWER")))
+      (Page "03 MCU")))
   (MPSSessionName "XXXLZJXXX-YF")
   (PartMRUSelector
     (MLT-5020
